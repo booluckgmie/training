@@ -1,0 +1,11 @@
+# R in Google Colab
+Run R programs in Google Colab: You can use R programming language in Google Colab by going to https://colab.to/r. It will open a new notebook with R set as the kernel instead of Python.
+
+# Auto Timing Exe in Google Colab
+Timing Execution of Cell: hover over the cell run icon and you will get an estimate of the execution time taken
+
+# Markup Google Colab
+https://colab.research.google.com/github/Tanu-N-Prabhu/Python/blob/master/Cheat_sheet_for_Google_Colab.ipynb
+
+# Pandas Profiling
+https://python.plainenglish.io/how-to-use-pandas-profiling-on-google-colab-e34f34ff1c9f
