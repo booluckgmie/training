@@ -1,0 +1,2 @@
+python pptx2pdfConvert.py <filename.pptx> <filename.pdf>
+eg. python pptx2pdfConvert.py Parlimen_P.042.pptx Parlimen_P.042.pdf
