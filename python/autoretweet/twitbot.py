@@ -3,10 +3,10 @@ import pandas as pd
 import datetime
 import time
  
-consumer_key = "UrXZYN6zB6XhL3c04TJKmoQKf"
-consumer_secret = "fpOoJtaeQbPCReJsJpqMNNCGzuxfo22KYCA1OzwHlANTnJhdZ6"
-access_token = "317666411-SO7KaBZe4dSz6jlSWZXcpOeQR8EeYpl1jFzPAgXX"
-access_token_secret = "bu8pdpzT2OuMJd74uI5syxPA0DJ0JKxZJQR2zKSO3FMnG"
+consumer_key = "consumer_key"
+consumer_secret = "consumer_secret"
+access_token = "access_token"
+access_token_secret = "access_token_secret"
 
 
 auth = tweepy.OAuthHandler(consumer_key, 
