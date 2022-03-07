@@ -1,6 +1,7 @@
-# Create AutoBOT for Retweet and Like post in Twitter (by UserID running hourly)
+## Create AutoBOT for Retweet and Like post in Twitter 
+### (by UserID running hourly)
 
-## ===**Simple Steps:**=======
+===**Simple Steps:**=======
 
 1. create developer Key (Created with Read and Write permissions) 
    refer to [https://developer.twitter.com/]
