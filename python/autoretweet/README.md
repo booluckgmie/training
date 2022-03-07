@@ -3,7 +3,7 @@
 
 ===**Simple Steps:**=======
 
-1. create developer Key (Created with Read and Write permissions) 
+1. apply developer KEY (Created with Read and Write permissions) 
    refer to [https://developer.twitter.com/]
 
 2. copy the python code, save as .py files
