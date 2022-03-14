@@ -1,0 +1,9 @@
+objective:
+to replace page no 25th with other pdf file
+
+methods:
+1. read whole pdf, split to 3 segments, 
+2. and replace selected page (25th) with new pdf file/s
+3. recombine segment 1 + new pdf page/file/s + segment 3
+4. save to merge PDF
+5. done
