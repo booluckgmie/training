@@ -23,3 +23,4 @@ df.to_csv('stats20.csv',index=False)
 
 ##########
 Reference : https://pypi.org/project/snscrape/
+Video : https://photos.google.com/share/AF1QipOQLSEuYR7fQC_MWXEWEmFmSfNecmMsuRP4BISpDBmS2JvF22ouJylTPKHsHCSdtQ/photo/AF1QipMS_URv2Dh6BMMpxg8iW6zDjZiyZ9T-VONVQ-d_?key=Tm1PNEFlUl85SFZSR1F6VTJaTXp5ZnNuXzZnZHF3
