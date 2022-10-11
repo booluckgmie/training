@@ -1,0 +1,301 @@
+﻿Category,Level,Attribute,Region,Value,Total
+Jantina,Male,outside,North,30.4,28.72
+Jantina,Male,outside,East,19.99,20.79
+Jantina,Male,outside,South,17.17,16.38
+Jantina,Male,outside,West,12.09,10.67
+Jantina,Male,outside,Borneo,20.34,23.44
+Jantina,Male,employer,North,23.94,28.72
+Jantina,Male,employer,East,14.32,20.79
+Jantina,Male,employer,South,23.94,16.38
+Jantina,Male,employer,West,18.12,10.67
+Jantina,Male,employer,Borneo,19.69,23.44
+Jantina,Male,employee,North,24.24,28.72
+Jantina,Male,employee,East,24.99,20.79
+Jantina,Male,employee,South,16.99,16.38
+Jantina,Male,employee,West,9.54,10.67
+Jantina,Male,employee,Borneo,24.24,23.44
+Jantina,Male,self employed,North,28.62,28.72
+Jantina,Male,self employed,East,19.3,20.79
+Jantina,Male,self employed,South,9.79,16.38
+Jantina,Male,self employed,West,3.94,10.67
+Jantina,Male,self employed,Borneo,38.36,23.44
+Jantina,Male,unpaid family worker,North,18.4,28.72
+Jantina,Male,unpaid family worker,East,18.4,20.79
+Jantina,Male,unpaid family worker,South,18.4,16.38
+Jantina,Male,unpaid family worker,West,7.2,10.67
+Jantina,Male,unpaid family worker,Borneo,37.6,23.44
+Jantina,Female,outside,North,32.06,30.71
+Jantina,Female,outside,East,20.52,20.77
+Jantina,Female,outside,South,17.46,17.09
+Jantina,Female,outside,West,10.61,10.19
+Jantina,Female,outside,Borneo,19.36,21.24
+Jantina,Female,employer,North,21.82,30.71
+Jantina,Female,employer,East,18.18,20.77
+Jantina,Female,employer,South,14.55,17.09
+Jantina,Female,employer,West,18.18,10.19
+Jantina,Female,employer,Borneo,27.27,21.24
+Jantina,Female,employee,North,22.45,30.71
+Jantina,Female,employee,East,24.2,20.77
+Jantina,Female,employee,South,20.2,17.09
+Jantina,Female,employee,West,11.38,10.19
+Jantina,Female,employee,Borneo,21.76,21.24
+Jantina,Female,self employed,North,25.03,30.71
+Jantina,Female,self employed,East,20.74,20.77
+Jantina,Female,self employed,South,9.6,17.09
+Jantina,Female,self employed,West,4.7,10.19
+Jantina,Female,self employed,Borneo,39.94,21.24
+Jantina,Female,unpaid family worker,North,18.99,30.71
+Jantina,Female,unpaid family worker,East,20.03,20.77
+Jantina,Female,unpaid family worker,South,8.89,17.09
+Jantina,Female,unpaid family worker,West,1.39,10.19
+Jantina,Female,unpaid family worker,Borneo,50.7,21.24
+Strata,Urban,outside,North,34.67,33.82
+Strata,Urban,outside,East,17.04,17.01
+Strata,Urban,outside,South,18.66,18.71
+Strata,Urban,outside,West,14.66,14.49
+Strata,Urban,outside,Borneo,14.97,15.97
+Strata,Urban,employer,North,23,33.82
+Strata,Urban,employer,East,13.15,17.01
+Strata,Urban,employer,South,23,18.71
+Strata,Urban,employer,West,19.48,14.49
+Strata,Urban,employer,Borneo,21.36,15.97
+Strata,Urban,employee,North,28.25,33.82
+Strata,Urban,employee,East,14.91,17.01
+Strata,Urban,employee,South,21.01,18.71
+Strata,Urban,employee,West,17.32,14.49
+Strata,Urban,employee,Borneo,18.51,15.97
+Strata,Urban,self employed,North,36.52,33.82
+Strata,Urban,self employed,East,20.94,17.01
+Strata,Urban,self employed,South,13.86,18.71
+Strata,Urban,self employed,West,7.08,14.49
+Strata,Urban,self employed,Borneo,21.59,15.97
+Strata,Urban,unpaid family worker,North,28.14,33.82
+Strata,Urban,unpaid family worker,East,20.53,17.01
+Strata,Urban,unpaid family worker,South,19.39,18.71
+Strata,Urban,unpaid family worker,West,5.7,14.49
+Strata,Urban,unpaid family worker,Borneo,26.24,15.97
+Strata,Rural,outside,North,23.97,22.14
+Strata,Rural,outside,East,27.64,27.85
+Strata,Rural,outside,South,14.38,13.07
+Strata,Rural,outside,West,3.47,2.78
+Strata,Rural,outside,Borneo,30.55,34.16
+Strata,Rural,employer,North,27.63,22.14
+Strata,Rural,employer,East,23.68,27.85
+Strata,Rural,employer,South,22.37,13.07
+Strata,Rural,employer,West,10.53,2.78
+Strata,Rural,employer,Borneo,15.79,34.16
+Strata,Rural,employee,North,18.3,22.14
+Strata,Rural,employee,East,36.72,27.85
+Strata,Rural,employee,South,14.06,13.07
+Strata,Rural,employee,West,1.25,2.78
+Strata,Rural,employee,Borneo,29.67,34.16
+Strata,Rural,self employed,North,19.47,22.14
+Strata,Rural,self employed,East,18.55,27.85
+Strata,Rural,self employed,South,5.95,13.07
+Strata,Rural,self employed,West,1.46,2.78
+Strata,Rural,self employed,Borneo,54.57,34.16
+Strata,Rural,unpaid family worker,North,13.3,22.14
+Strata,Rural,unpaid family worker,East,19.27,27.85
+Strata,Rural,unpaid family worker,South,5.28,13.07
+Strata,Rural,unpaid family worker,West,0.46,2.78
+Strata,Rural,unpaid family worker,Borneo,61.7,34.16
+Pendidikan,TPR,outside,North,26.79,24.46
+Pendidikan,TPR,outside,East,20.84,20.78
+Pendidikan,TPR,outside,South,11.91,10.86
+Pendidikan,TPR,outside,West,4.49,4.09
+Pendidikan,TPR,outside,Borneo,35.97,39.8
+Pendidikan,TPR,employer,North,33.33,24.46
+Pendidikan,TPR,employer,East,0,20.78
+Pendidikan,TPR,employer,South,0,10.86
+Pendidikan,TPR,employer,West,0,4.09
+Pendidikan,TPR,employer,Borneo,66.67,39.8
+Pendidikan,TPR,employee,North,16.64,24.46
+Pendidikan,TPR,employee,East,28.6,20.78
+Pendidikan,TPR,employee,South,10.05,10.86
+Pendidikan,TPR,employee,West,2.77,4.09
+Pendidikan,TPR,employee,Borneo,41.94,39.8
+Pendidikan,TPR,self employed,North,11.73,24.46
+Pendidikan,TPR,self employed,East,14.91,20.78
+Pendidikan,TPR,self employed,South,2.35,10.86
+Pendidikan,TPR,self employed,West,2.18,4.09
+Pendidikan,TPR,self employed,Borneo,68.84,39.8
+Pendidikan,TPR,unpaid family worker,North,5.65,24.46
+Pendidikan,TPR,unpaid family worker,East,13.56,20.78
+Pendidikan,TPR,unpaid family worker,South,2.82,10.86
+Pendidikan,TPR,unpaid family worker,West,0,4.09
+Pendidikan,TPR,unpaid family worker,Borneo,77.97,39.8
+Pendidikan,Rendah,outside,North,34.7,32.52
+Pendidikan,Rendah,outside,East,21.07,21.94
+Pendidikan,Rendah,outside,South,18.04,16.73
+Pendidikan,Rendah,outside,West,9.44,8.01
+Pendidikan,Rendah,outside,Borneo,16.75,20.8
+Pendidikan,Rendah,employer,North,12.5,32.52
+Pendidikan,Rendah,employer,East,12.5,21.94
+Pendidikan,Rendah,employer,South,50,16.73
+Pendidikan,Rendah,employer,West,12.5,8.01
+Pendidikan,Rendah,employer,Borneo,12.5,20.8
+Pendidikan,Rendah,employee,North,24.47,32.52
+Pendidikan,Rendah,employee,East,28.6,21.94
+Pendidikan,Rendah,employee,South,16.1,16.73
+Pendidikan,Rendah,employee,West,4.89,8.01
+Pendidikan,Rendah,employee,Borneo,25.93,20.8
+Pendidikan,Rendah,self employed,North,29.61,32.52
+Pendidikan,Rendah,self employed,East,19.37,21.94
+Pendidikan,Rendah,self employed,South,8.89,16.73
+Pendidikan,Rendah,self employed,West,2.89,8.01
+Pendidikan,Rendah,self employed,Borneo,39.24,20.8
+Pendidikan,Rendah,unpaid family worker,North,21.45,32.52
+Pendidikan,Rendah,unpaid family worker,East,21.16,21.94
+Pendidikan,Rendah,unpaid family worker,South,9.86,16.73
+Pendidikan,Rendah,unpaid family worker,West,0.87,8.01
+Pendidikan,Rendah,unpaid family worker,Borneo,46.67,20.8
+Pendidikan,Menengah,outside,North,31.27,30.44
+Pendidikan,Menengah,outside,East,18.78,19.46
+Pendidikan,Menengah,outside,South,19.83,19.95
+Pendidikan,Menengah,outside,West,15.55,14.42
+Pendidikan,Menengah,outside,Borneo,14.57,15.73
+Pendidikan,Menengah,employer,North,27.11,30.44
+Pendidikan,Menengah,employer,East,13.25,19.46
+Pendidikan,Menengah,employer,South,23.8,19.95
+Pendidikan,Menengah,employer,West,16.57,14.42
+Pendidikan,Menengah,employer,Borneo,19.28,15.73
+Pendidikan,Menengah,employee,North,26,30.44
+Pendidikan,Menengah,employee,East,22.03,19.46
+Pendidikan,Menengah,employee,South,22.25,19.95
+Pendidikan,Menengah,employee,West,13.26,14.42
+Pendidikan,Menengah,employee,Borneo,16.45,15.73
+Pendidikan,Menengah,self employed,North,33.15,30.44
+Pendidikan,Menengah,self employed,East,21.89,19.46
+Pendidikan,Menengah,self employed,South,15.29,19.95
+Pendidikan,Menengah,self employed,West,6.5,14.42
+Pendidikan,Menengah,self employed,Borneo,23.17,15.73
+Pendidikan,Menengah,unpaid family worker,North,28.48,30.44
+Pendidikan,Menengah,unpaid family worker,East,23.42,19.46
+Pendidikan,Menengah,unpaid family worker,South,18.35,19.95
+Pendidikan,Menengah,unpaid family worker,West,6.96,14.42
+Pendidikan,Menengah,unpaid family worker,Borneo,22.78,15.73
+Pendidikan,Tertiari,outside,North,26.24,24.48
+Pendidikan,Tertiari,outside,East,21.05,20.11
+Pendidikan,Tertiari,outside,South,17.72,17.31
+Pendidikan,Tertiari,outside,West,20.61,21.8
+Pendidikan,Tertiari,outside,Borneo,14.38,16.29
+Pendidikan,Tertiari,employer,North,16.98,24.48
+Pendidikan,Tertiari,employer,East,18.24,20.11
+Pendidikan,Tertiari,employer,South,20.13,17.31
+Pendidikan,Tertiari,employer,West,22.01,21.8
+Pendidikan,Tertiari,employer,Borneo,22.64,16.29
+Pendidikan,Tertiari,employee,North,17.92,24.48
+Pendidikan,Tertiari,employee,East,13.85,20.11
+Pendidikan,Tertiari,employee,South,15.48,17.31
+Pendidikan,Tertiari,employee,West,29.53,21.8
+Pendidikan,Tertiari,employee,Borneo,23.22,16.29
+Pendidikan,Tertiari,self employed,North,26.97,24.48
+Pendidikan,Tertiari,self employed,East,31.46,20.11
+Pendidikan,Tertiari,self employed,South,7.87,17.31
+Pendidikan,Tertiari,self employed,West,13.48,21.8
+Pendidikan,Tertiari,self employed,Borneo,20.22,16.29
+Pendidikan,Tertiari,unpaid family worker,North,15.79,24.48
+Pendidikan,Tertiari,unpaid family worker,East,21.05,20.11
+Pendidikan,Tertiari,unpaid family worker,South,31.58,17.31
+Pendidikan,Tertiari,unpaid family worker,West,15.79,21.8
+Pendidikan,Tertiari,unpaid family worker,Borneo,15.79,16.29
+Etnik,Melayu,outside,North,33.89,33.42
+Etnik,Melayu,outside,East,31.9,33.32
+Etnik,Melayu,outside,South,17.54,16.94
+Etnik,Melayu,outside,West,9.59,9.07
+Etnik,Melayu,outside,Borneo,7.08,7.25
+Etnik,Melayu,employer,North,25.38,33.42
+Etnik,Melayu,employer,East,23.85,33.32
+Etnik,Melayu,employer,South,26.92,16.94
+Etnik,Melayu,employer,West,20,9.07
+Etnik,Melayu,employer,Borneo,3.85,7.25
+Etnik,Melayu,employee,North,27.14,33.42
+Etnik,Melayu,employee,East,41.37,33.32
+Etnik,Melayu,employee,South,17.08,16.94
+Etnik,Melayu,employee,West,7.84,9.07
+Etnik,Melayu,employee,Borneo,6.56,7.25
+Etnik,Melayu,self employed,North,40.46,33.42
+Etnik,Melayu,self employed,East,34.03,33.32
+Etnik,Melayu,self employed,South,10.07,16.94
+Etnik,Melayu,self employed,West,5.44,9.07
+Etnik,Melayu,self employed,Borneo,10.01,7.25
+Etnik,Melayu,unpaid family worker,North,31.66,33.42
+Etnik,Melayu,unpaid family worker,East,39.7,33.32
+Etnik,Melayu,unpaid family worker,South,12.56,16.94
+Etnik,Melayu,unpaid family worker,West,4.02,9.07
+Etnik,Melayu,unpaid family worker,Borneo,12.06,7.25
+Etnik,Cina,outside,North,35.73,34.14
+Etnik,Cina,outside,East,10.01,11
+Etnik,Cina,outside,South,22.37,22.57
+Etnik,Cina,outside,West,16.07,15.4
+Etnik,Cina,outside,Borneo,15.82,16.88
+Etnik,Cina,employer,North,24.04,34.14
+Etnik,Cina,employer,East,11.86,11
+Etnik,Cina,employer,South,21.47,22.57
+Etnik,Cina,employer,West,18.91,15.4
+Etnik,Cina,employer,Borneo,23.72,16.88
+Etnik,Cina,employee,North,28.01,34.14
+Etnik,Cina,employee,East,12.15,11
+Etnik,Cina,employee,South,25.97,22.57
+Etnik,Cina,employee,West,17.27,15.4
+Etnik,Cina,employee,Borneo,16.59,16.88
+Etnik,Cina,self employed,North,34.1,34.14
+Etnik,Cina,self employed,East,16.92,11
+Etnik,Cina,self employed,South,19.74,22.57
+Etnik,Cina,self employed,West,5.9,15.4
+Etnik,Cina,self employed,Borneo,23.33,16.88
+Etnik,Cina,unpaid family worker,North,25.59,34.14
+Etnik,Cina,unpaid family worker,East,22.05,11
+Etnik,Cina,unpaid family worker,South,18.5,22.57
+Etnik,Cina,unpaid family worker,West,3.15,15.4
+Etnik,Cina,unpaid family worker,Borneo,30.71,16.88
+Etnik,India,outside,North,46.09,44.77
+Etnik,India,outside,East,7.55,7.7
+Etnik,India,outside,South,23.16,24.68
+Etnik,India,outside,West,22.36,21.89
+Etnik,India,outside,Borneo,0.84,0.96
+Etnik,India,employer,North,30.56,44.77
+Etnik,India,employer,East,13.89,7.7
+Etnik,India,employer,South,30.56,24.68
+Etnik,India,employer,West,16.67,21.89
+Etnik,India,employer,Borneo,8.33,0.96
+Etnik,India,employee,North,37.87,44.77
+Etnik,India,employee,East,8.17,7.7
+Etnik,India,employee,South,32.15,24.68
+Etnik,India,employee,West,20.71,21.89
+Etnik,India,employee,Borneo,1.09,0.96
+Etnik,India,self employed,North,48.48,44.77
+Etnik,India,self employed,East,6.06,7.7
+Etnik,India,self employed,South,28.79,24.68
+Etnik,India,self employed,West,16.67,21.89
+Etnik,India,self employed,Borneo,0,0.96
+Etnik,India,unpaid family worker,North,42.86,44.77
+Etnik,India,unpaid family worker,East,14.29,7.7
+Etnik,India,unpaid family worker,South,28.57,24.68
+Etnik,India,unpaid family worker,West,14.29,21.89
+Etnik,India,unpaid family worker,Borneo,0,0.96
+Etnik,Lain,outside,North,1.61,1.61
+Etnik,Lain,outside,East,1.56,1.63
+Etnik,Lain,outside,South,0.95,0.95
+Etnik,Lain,outside,West,0.36,0.32
+Etnik,Lain,outside,Borneo,95.52,95.49
+Etnik,Lain,employer,North,0,1.61
+Etnik,Lain,employer,East,4.17,1.63
+Etnik,Lain,employer,South,8.33,0.95
+Etnik,Lain,employer,West,0,0.32
+Etnik,Lain,employer,Borneo,87.5,95.49
+Etnik,Lain,employee,North,1.04,1.61
+Etnik,Lain,employee,East,2.7,1.63
+Etnik,Lain,employee,South,1.14,0.95
+Etnik,Lain,employee,West,0.42,0.32
+Etnik,Lain,employee,Borneo,94.7,95.49
+Etnik,Lain,self employed,North,2.41,1.61
+Etnik,Lain,self employed,East,1.02,1.63
+Etnik,Lain,self employed,South,0.83,0.95
+Etnik,Lain,self employed,West,0.19,0.32
+Etnik,Lain,self employed,Borneo,95.55,95.49
+Etnik,Lain,unpaid family worker,North,0.42,1.61
+Etnik,Lain,unpaid family worker,East,0.84,1.63
+Etnik,Lain,unpaid family worker,South,0,0.95
+Etnik,Lain,unpaid family worker,West,0,0.32
+Etnik,Lain,unpaid family worker,Borneo,98.74,95.49

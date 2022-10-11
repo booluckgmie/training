@@ -1,0 +1,301 @@
+,Category,Level,Attribute,Region,Value
+0,Jantina,Male,outside,North,4101
+1,Jantina,Male,outside,East,2696
+2,Jantina,Male,outside,South,2316
+3,Jantina,Male,outside,West,1631
+4,Jantina,Male,outside,Borneo,2744
+5,Jantina,Male,employer,North,107
+6,Jantina,Male,employer,East,64
+7,Jantina,Male,employer,South,107
+8,Jantina,Male,employer,West,81
+9,Jantina,Male,employer,Borneo,88
+10,Jantina,Male,employee,North,1026
+11,Jantina,Male,employee,East,1058
+12,Jantina,Male,employee,South,719
+13,Jantina,Male,employee,West,404
+14,Jantina,Male,employee,Borneo,1026
+15,Jantina,Male,self employed,North,734
+16,Jantina,Male,self employed,East,495
+17,Jantina,Male,self employed,South,251
+18,Jantina,Male,self employed,West,101
+19,Jantina,Male,self employed,Borneo,984
+20,Jantina,Male,unpaid family worker,North,23
+21,Jantina,Male,unpaid family worker,East,23
+22,Jantina,Male,unpaid family worker,South,23
+23,Jantina,Male,unpaid family worker,West,9
+24,Jantina,Male,unpaid family worker,Borneo,47
+25,Jantina,Female,outside,North,6204
+26,Jantina,Female,outside,East,3971
+27,Jantina,Female,outside,South,3380
+28,Jantina,Female,outside,West,2053
+29,Jantina,Female,outside,Borneo,3746
+30,Jantina,Female,employer,North,12
+31,Jantina,Female,employer,East,10
+32,Jantina,Female,employer,South,8
+33,Jantina,Female,employer,West,10
+34,Jantina,Female,employer,Borneo,15
+35,Jantina,Female,employee,North,359
+36,Jantina,Female,employee,East,387
+37,Jantina,Female,employee,South,323
+38,Jantina,Female,employee,West,182
+39,Jantina,Female,employee,Borneo,348
+40,Jantina,Female,self employed,North,245
+41,Jantina,Female,self employed,East,203
+42,Jantina,Female,self employed,South,94
+43,Jantina,Female,self employed,West,46
+44,Jantina,Female,self employed,Borneo,391
+45,Jantina,Female,unpaid family worker,North,109
+46,Jantina,Female,unpaid family worker,East,115
+47,Jantina,Female,unpaid family worker,South,51
+48,Jantina,Female,unpaid family worker,West,8
+49,Jantina,Female,unpaid family worker,Borneo,291
+50,Strata,Urban,outside,North,7885
+51,Strata,Urban,outside,East,3876
+52,Strata,Urban,outside,South,4244
+53,Strata,Urban,outside,West,3334
+54,Strata,Urban,outside,Borneo,3405
+55,Strata,Urban,employer,North,98
+56,Strata,Urban,employer,East,56
+57,Strata,Urban,employer,South,98
+58,Strata,Urban,employer,West,83
+59,Strata,Urban,employer,Borneo,91
+60,Strata,Urban,employee,North,902
+61,Strata,Urban,employee,East,476
+62,Strata,Urban,employee,South,671
+63,Strata,Urban,employee,West,553
+64,Strata,Urban,employee,Borneo,591
+65,Strata,Urban,self employed,North,619
+66,Strata,Urban,self employed,East,355
+67,Strata,Urban,self employed,South,235
+68,Strata,Urban,self employed,West,120
+69,Strata,Urban,self employed,Borneo,366
+70,Strata,Urban,unpaid family worker,North,74
+71,Strata,Urban,unpaid family worker,East,54
+72,Strata,Urban,unpaid family worker,South,51
+73,Strata,Urban,unpaid family worker,West,15
+74,Strata,Urban,unpaid family worker,Borneo,69
+75,Strata,Rural,outside,North,2420
+76,Strata,Rural,outside,East,2791
+77,Strata,Rural,outside,South,1452
+78,Strata,Rural,outside,West,350
+79,Strata,Rural,outside,Borneo,3085
+80,Strata,Rural,employer,North,21
+81,Strata,Rural,employer,East,18
+82,Strata,Rural,employer,South,17
+83,Strata,Rural,employer,West,8
+84,Strata,Rural,employer,Borneo,12
+85,Strata,Rural,employee,North,483
+86,Strata,Rural,employee,East,969
+87,Strata,Rural,employee,South,371
+88,Strata,Rural,employee,West,33
+89,Strata,Rural,employee,Borneo,783
+90,Strata,Rural,self employed,North,360
+91,Strata,Rural,self employed,East,343
+92,Strata,Rural,self employed,South,110
+93,Strata,Rural,self employed,West,27
+94,Strata,Rural,self employed,Borneo,1009
+95,Strata,Rural,unpaid family worker,North,58
+96,Strata,Rural,unpaid family worker,East,84
+97,Strata,Rural,unpaid family worker,South,23
+98,Strata,Rural,unpaid family worker,West,2
+99,Strata,Rural,unpaid family worker,Borneo,269
+100,Pendidikan,TPR,outside,North,1777
+101,Pendidikan,TPR,outside,East,1382
+102,Pendidikan,TPR,outside,South,790
+103,Pendidikan,TPR,outside,West,298
+104,Pendidikan,TPR,outside,Borneo,2386
+105,Pendidikan,TPR,employer,North,1
+106,Pendidikan,TPR,employer,East,0
+107,Pendidikan,TPR,employer,South,0
+108,Pendidikan,TPR,employer,West,0
+109,Pendidikan,TPR,employer,Borneo,2
+110,Pendidikan,TPR,employee,North,96
+111,Pendidikan,TPR,employee,East,165
+112,Pendidikan,TPR,employee,South,58
+113,Pendidikan,TPR,employee,West,16
+114,Pendidikan,TPR,employee,Borneo,242
+115,Pendidikan,TPR,self employed,North,70
+116,Pendidikan,TPR,self employed,East,89
+117,Pendidikan,TPR,self employed,South,14
+118,Pendidikan,TPR,self employed,West,13
+119,Pendidikan,TPR,self employed,Borneo,411
+120,Pendidikan,TPR,unpaid family worker,North,10
+121,Pendidikan,TPR,unpaid family worker,East,24
+122,Pendidikan,TPR,unpaid family worker,South,5
+123,Pendidikan,TPR,unpaid family worker,West,0
+124,Pendidikan,TPR,unpaid family worker,Borneo,138
+125,Pendidikan,Rendah,outside,North,4633
+126,Pendidikan,Rendah,outside,East,2814
+127,Pendidikan,Rendah,outside,South,2409
+128,Pendidikan,Rendah,outside,West,1261
+129,Pendidikan,Rendah,outside,Borneo,2236
+130,Pendidikan,Rendah,employer,North,1
+131,Pendidikan,Rendah,employer,East,1
+132,Pendidikan,Rendah,employer,South,4
+133,Pendidikan,Rendah,employer,West,1
+134,Pendidikan,Rendah,employer,Borneo,1
+135,Pendidikan,Rendah,employee,North,605
+136,Pendidikan,Rendah,employee,East,707
+137,Pendidikan,Rendah,employee,South,398
+138,Pendidikan,Rendah,employee,West,121
+139,Pendidikan,Rendah,employee,Borneo,641
+140,Pendidikan,Rendah,self employed,North,523
+141,Pendidikan,Rendah,self employed,East,342
+142,Pendidikan,Rendah,self employed,South,157
+143,Pendidikan,Rendah,self employed,West,51
+144,Pendidikan,Rendah,self employed,Borneo,693
+145,Pendidikan,Rendah,unpaid family worker,North,74
+146,Pendidikan,Rendah,unpaid family worker,East,73
+147,Pendidikan,Rendah,unpaid family worker,South,34
+148,Pendidikan,Rendah,unpaid family worker,West,3
+149,Pendidikan,Rendah,unpaid family worker,Borneo,161
+150,Pendidikan,Menengah,outside,North,3242
+151,Pendidikan,Menengah,outside,East,1947
+152,Pendidikan,Menengah,outside,South,2056
+153,Pendidikan,Menengah,outside,West,1612
+154,Pendidikan,Menengah,outside,Borneo,1510
+155,Pendidikan,Menengah,employer,North,90
+156,Pendidikan,Menengah,employer,East,44
+157,Pendidikan,Menengah,employer,South,79
+158,Pendidikan,Menengah,employer,West,55
+159,Pendidikan,Menengah,employer,Borneo,64
+160,Pendidikan,Menengah,employee,North,596
+161,Pendidikan,Menengah,employee,East,505
+162,Pendidikan,Menengah,employee,South,510
+163,Pendidikan,Menengah,employee,West,304
+164,Pendidikan,Menengah,employee,Borneo,377
+165,Pendidikan,Menengah,self employed,North,362
+166,Pendidikan,Menengah,self employed,East,239
+167,Pendidikan,Menengah,self employed,South,167
+168,Pendidikan,Menengah,self employed,West,71
+169,Pendidikan,Menengah,self employed,Borneo,253
+170,Pendidikan,Menengah,unpaid family worker,North,45
+171,Pendidikan,Menengah,unpaid family worker,East,37
+172,Pendidikan,Menengah,unpaid family worker,South,29
+173,Pendidikan,Menengah,unpaid family worker,West,11
+174,Pendidikan,Menengah,unpaid family worker,Borneo,36
+175,Pendidikan,Tertiari,outside,North,653
+176,Pendidikan,Tertiari,outside,East,524
+177,Pendidikan,Tertiari,outside,South,441
+178,Pendidikan,Tertiari,outside,West,513
+179,Pendidikan,Tertiari,outside,Borneo,358
+180,Pendidikan,Tertiari,employer,North,27
+181,Pendidikan,Tertiari,employer,East,29
+182,Pendidikan,Tertiari,employer,South,32
+183,Pendidikan,Tertiari,employer,West,35
+184,Pendidikan,Tertiari,employer,Borneo,36
+185,Pendidikan,Tertiari,employee,North,88
+186,Pendidikan,Tertiari,employee,East,68
+187,Pendidikan,Tertiari,employee,South,76
+188,Pendidikan,Tertiari,employee,West,145
+189,Pendidikan,Tertiari,employee,Borneo,114
+190,Pendidikan,Tertiari,self employed,North,24
+191,Pendidikan,Tertiari,self employed,East,28
+192,Pendidikan,Tertiari,self employed,South,7
+193,Pendidikan,Tertiari,self employed,West,12
+194,Pendidikan,Tertiari,self employed,Borneo,18
+195,Pendidikan,Tertiari,unpaid family worker,North,3
+196,Pendidikan,Tertiari,unpaid family worker,East,4
+197,Pendidikan,Tertiari,unpaid family worker,South,6
+198,Pendidikan,Tertiari,unpaid family worker,West,3
+199,Pendidikan,Tertiari,unpaid family worker,Borneo,3
+200,Etnik,Melayu,outside,North,5824
+201,Etnik,Melayu,outside,East,5483
+202,Etnik,Melayu,outside,South,3014
+203,Etnik,Melayu,outside,West,1648
+204,Etnik,Melayu,outside,Borneo,1217
+205,Etnik,Melayu,employer,North,33
+206,Etnik,Melayu,employer,East,31
+207,Etnik,Melayu,employer,South,35
+208,Etnik,Melayu,employer,West,26
+209,Etnik,Melayu,employer,Borneo,5
+210,Etnik,Melayu,employee,North,782
+211,Etnik,Melayu,employee,East,1192
+212,Etnik,Melayu,employee,South,492
+213,Etnik,Melayu,employee,West,226
+214,Etnik,Melayu,employee,Borneo,189
+215,Etnik,Melayu,self employed,North,655
+216,Etnik,Melayu,self employed,East,551
+217,Etnik,Melayu,self employed,South,163
+218,Etnik,Melayu,self employed,West,88
+219,Etnik,Melayu,self employed,Borneo,162
+220,Etnik,Melayu,unpaid family worker,North,63
+221,Etnik,Melayu,unpaid family worker,East,79
+222,Etnik,Melayu,unpaid family worker,South,25
+223,Etnik,Melayu,unpaid family worker,West,8
+224,Etnik,Melayu,unpaid family worker,Borneo,24
+225,Etnik,Cina,outside,North,3435
+226,Etnik,Cina,outside,East,962
+227,Etnik,Cina,outside,South,2151
+228,Etnik,Cina,outside,West,1545
+229,Etnik,Cina,outside,Borneo,1521
+230,Etnik,Cina,employer,North,75
+231,Etnik,Cina,employer,East,37
+232,Etnik,Cina,employer,South,67
+233,Etnik,Cina,employer,West,59
+234,Etnik,Cina,employer,Borneo,74
+235,Etnik,Cina,employee,North,454
+236,Etnik,Cina,employee,East,197
+237,Etnik,Cina,employee,South,421
+238,Etnik,Cina,employee,West,280
+239,Etnik,Cina,employee,Borneo,269
+240,Etnik,Cina,self employed,North,266
+241,Etnik,Cina,self employed,East,132
+242,Etnik,Cina,self employed,South,154
+243,Etnik,Cina,self employed,West,46
+244,Etnik,Cina,self employed,Borneo,182
+245,Etnik,Cina,unpaid family worker,North,65
+246,Etnik,Cina,unpaid family worker,East,56
+247,Etnik,Cina,unpaid family worker,South,47
+248,Etnik,Cina,unpaid family worker,West,8
+249,Etnik,Cina,unpaid family worker,Borneo,78
+250,Etnik,India,outside,North,983
+251,Etnik,India,outside,East,161
+252,Etnik,India,outside,South,494
+253,Etnik,India,outside,West,477
+254,Etnik,India,outside,Borneo,18
+255,Etnik,India,employer,North,11
+256,Etnik,India,employer,East,5
+257,Etnik,India,employer,South,11
+258,Etnik,India,employer,West,6
+259,Etnik,India,employer,Borneo,3
+260,Etnik,India,employee,North,139
+261,Etnik,India,employee,East,30
+262,Etnik,India,employee,South,118
+263,Etnik,India,employee,West,76
+264,Etnik,India,employee,Borneo,4
+265,Etnik,India,self employed,North,32
+266,Etnik,India,self employed,East,4
+267,Etnik,India,self employed,South,19
+268,Etnik,India,self employed,West,11
+269,Etnik,India,self employed,Borneo,0
+270,Etnik,India,unpaid family worker,North,3
+271,Etnik,India,unpaid family worker,East,1
+272,Etnik,India,unpaid family worker,South,2
+273,Etnik,India,unpaid family worker,West,1
+274,Etnik,India,unpaid family worker,Borneo,0
+275,Etnik,Lain2,outside,North,63
+276,Etnik,Lain2,outside,East,61
+277,Etnik,Lain2,outside,South,37
+278,Etnik,Lain2,outside,West,14
+279,Etnik,Lain2,outside,Borneo,3734
+280,Etnik,Lain2,employer,North,0
+281,Etnik,Lain2,employer,East,1
+282,Etnik,Lain2,employer,South,2
+283,Etnik,Lain2,employer,West,0
+284,Etnik,Lain2,employer,Borneo,21
+285,Etnik,Lain2,employee,North,10
+286,Etnik,Lain2,employee,East,26
+287,Etnik,Lain2,employee,South,11
+288,Etnik,Lain2,employee,West,4
+289,Etnik,Lain2,employee,Borneo,912
+290,Etnik,Lain2,self employed,North,26
+291,Etnik,Lain2,self employed,East,11
+292,Etnik,Lain2,self employed,South,9
+293,Etnik,Lain2,self employed,West,2
+294,Etnik,Lain2,self employed,Borneo,1031
+295,Etnik,Lain2,unpaid family worker,North,1
+296,Etnik,Lain2,unpaid family worker,East,2
+297,Etnik,Lain2,unpaid family worker,South,0
+298,Etnik,Lain2,unpaid family worker,West,0
+299,Etnik,Lain2,unpaid family worker,Borneo,236
