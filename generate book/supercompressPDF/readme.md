@@ -11,3 +11,6 @@
     <targeted/input PDFs in folder directory>
     
     Enter/Run
+    
+## Result
+![BeforeAfterCompress](https://raw.githubusercontent.com/booluckgmie/training/main/generate%20book/supercompressPDF/beforeAfter_compress.PNG "bfAfter compression")
