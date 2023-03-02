@@ -4,7 +4,7 @@
 3. Copy paste location to the script (supercompress.py)
 
 ## How to use:
-1. Run CMD at directory for file output 
+1. Run CMD at directory for folder output 
 2. Identify directory for targeted/input PDFs in folder directory
 3. Type "python supercompress.py"
     DIR:
