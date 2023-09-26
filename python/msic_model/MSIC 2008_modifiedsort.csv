@@ -1,0 +1,2349 @@
+MSIC_5D,DESCRIPTION
+A01131,Penanaman jagung
+A01132,Penanaman tanaman kekacang
+A01133,Penanaman bijian berminyak
+A01134,Penanaman bijirin lain t.t.t.l
+A01135,Penanaman padi
+A01136,Penanaman sayur-sayuran berdaun atau berbatang
+A01137,Penanaman sayur-sayuran berbuah
+A01138,Penanaman tembikai
+A01140,Penanaman cendawan dan truffles
+A01150,"Penanaman benih sayuran, kecuali benih bit"
+A01160,Penanaman sayur-sayuran lain
+A01191,Penanaman ubi gula
+A01192,"Penanaman tumbuhan berakar, ubi-ubian, bebawang atau sayur-sayuran berubi"
+A01193,Penanaman tebu
+A01111,Penanaman tembakau 
+A01112,Penanaman tanaman berserat
+A01113,Penanaman bunga
+A01119,Penanaman biji benih bungaan
+A01120,Penanaman sagu (rumbia)
+A01199,Penanaman tanaman bukan kekal lain t.t.t.l
+A01210,Penanaman anggur
+A01221,Penanaman pisang 
+A01222,Penanaman mangga 
+A01223,Penanaman durian
+A01224,Penanaman rambutan
+A01225,Penanaman buah belimbing 
+A01226,Penanaman betik 
+A01227,Penanaman nenas 
+A01228,Penanaman buah naga
+A01229,Penanaman buah-buahan tropika dan subtropika lain t.t.t.l
+A01231,Penanaman limau bali
+A01233,Penanaman lemon dan limau nipis
+A01239,Penanaman tangerin dan mandarin
+A01241,Penanaman buah-buahan sitrus lain t.t.t.l.
+A01251,Penanaman jambu batu 
+A01252,Penanaman buah-buahan delima dan berbiji lain t.t.t.l
+A01253,Penanaman buah beri
+A01259,Penanaman biji benih buah-buahan
+A01262,Penanaman kekacang yang boleh dimakan
+A01263,Penanaman pokok dan buah-buahan bertandan lain
+A01271,Penanaman kelapa sawit (estet)
+A01272,Penanaman kelapa sawit (kebun kecil)
+A01273,Penanaman kelapa (estet dan kebun kecil)
+A01279,Penanaman buah-buah lain untuk minyak t.t.t.l.
+A01281,Penanaman kopi
+A01283,Penanaman teh
+A01284,Penanaman koko
+A01289,Penanaman tanaman minuman lain t.t.t.l.
+A01291,Penanaman lada hitam (piper nigrum)
+A01292,Penanaman cili dan lada (lada benggala spp.)
+A01293,Penanaman buah pala
+A01295,Penanaman halia
+A01296,"Penanaman tanaman yang digunakan terutamanya untuk penghasilan minyak wangi, untuk farmasi atau untuk racun serangga, kulat atau untuk tujuan yang seumpamanya"
+A01249,Penanaman tanaman rempah ratus dan aromatik lain t.t.t.l
+A01261,Penanaman pokok getah (estet)
+A01269,Penanaman pokok getah (kebun kecil)
+A01282,Penanaman pokok untuk pengekstrakan sap
+A01285,Penanaman pokok nipah
+A01464,Penanaman pokok pinang
+A01491,Penanaman pokok roselle
+A01495,Penanaman tanaman kekal lain t.t.t.l
+A01232,Penanaman tumbuhan sebagai tanaman 
+A01500,Penanaman tumbuhan untuk tujuan hiasan
+A01620,"Penanaman tumbuhan untuk bebawang, ubi dan akar; keratan dan slips; cendawan"
+A01701,Operasi tapak semaian pokok (nurseries)(
+A02101,"Penternakan, pembiakan dan pengeluaran lembu atau kerbau"
+A03115,Pengeluaran susu mentah daripada lembu atau kerbau
+A03212,Pengeluaran air mani lembu
+A03216,"Penternakan dan pembiakan kuda, keldai, baghal atau hinnes"
+A03223,Penternakan dan pembiakan unta (dromedary) dan camelid
+A01299,"Penternakan, pembiakan dan pengeluaran biri-biri dan kambing"
+A01301,Pengeluaran susu mentah biri-biri atau kambing
+A01302,Pengeluaran bulu belum proses
+A01303,"Penternakan, pembiakan dan pengeluaran babi"
+A01304,"Penternakan, pembiakan dan pengeluaran ayam, ayam daging"
+A01411,"Penternakan, pembiakan dan pengeluaran itik"
+A01412,"Penternakan, pembiakan dan pengeluaran angsa"
+A01413,"Penternakan, pembiakan dan pengeluaran burung puyuh"
+A01420,Penternakan dan pembiakan unggas lain t.t.t.l. 
+A01430,Pengeluaran telur ayam
+A01441,Pengeluaran telur itik
+A01442,Pengeluaran telur unggas lain t.t.t.l.
+A01443,Operasi penetasan unggas
+A01450,"Penternakan, pembiakan dan pengeluaran haiwan separuh jinak"
+A01461,"Pengeluaran kulit berbulu, kulit burung atau reptilia dari operasi ladang ternakan"
+A01294,"Operasi ternakan cacing, moluska, siput"
+A01462,Penternakan ulat sutera dan pengeluaran hasil kepompong ulat sutera
+A01463,Penternakan lebah dan pengeluaran hasil madu dan lilin lebah
+A01465,Penternakan dan pembiakan haiwan peliharaan
+A01466,Penternakan dan pembiakan burung walit
+A01467,Penternakan pelbagai/haiwan lain t.t.t.l
+A01468,Pertanian campuran
+A01469,Aktiviti pertanian untuk pengeluaran tanaman berasaskan yuran atau kontrak
+A01492,Aktiviti pertanian untuk pengeluaran ternakan berasaskan yuran atau kontrak
+A01493,Penyediaan tanaman untuk pasaran utama
+A01494,Penyediaan daun tembakau
+A01496,Penyediaan biji koko
+A01497,Menjemur sayur-sayuran dan buah-buahan
+A01499,Pemprosesan benih untuk pembiakan
+A01610,Pemburuan dan penjeratan haiwan secara komersial
+A01631,Penangkapan haiwan (hidup atau mati)
+A01632,"Penanaman, penanaman semula, pemindahan, pengurusan dan pemuliharaan hutan dan kawasan lapang"
+A01633,"Penanaman untuk tunas semula, kayu pulpa dan kayu api "
+A01634,Operasi tapak semaian pokok hutan
+A01640,Pengumpulan dan pemeliharaan hutan liar (spesis pokok hutan paya gambut)
+A01702,Ladang hutan 
+A02102,Pengeluaran kayu balak untuk industri berasaskan kayu
+A02103,Pengeluaran kayu balak yang digunakan dalam bentuk belum proses
+A02104,Pengeluaran arang kayu dalam hutan (menggunakan kaedah tradisional)
+A02105,Pembalakan kayu getah
+A02201,"Pengumpulan rotan, buluh"
+A02301,Pemungutan sarang burung
+A02302,Pengumpulan pokok sagu liar
+A02303,Pengumpulan produk hutan bukan kayu t.t.t.l
+A02309,Menjalankan sebahagian operasi perhutanan dan ladang hutan berdasarkan bayaran atau secara kontrak untuk aktiviti perkhidmatan perhutanan
+A02401,Menjalankan sebahagian operasi perhutanan berdasarkan bayaran atau secara kontrak untuk aktiviti perkhidmatan pembalakan
+A02402,Perikanan komersil di laut dan perairan pantai
+A03111,Pemungutan krustasia dan moluska laut 
+A03112,"Pengambilan haiwan akuatik : sea squirts, tunikat, landak laut"
+A03113,"Aktiviti atas vessel yang melibatkan penangkapan, pemprosesan dan pengawetan ikan"
+A03114,"Pengumpulan organisma perikanan dan hasil laut lain (tiram semulajadi, span, batu karang dan alga)"
+A03119,Perikanan laut t.t.t.l.
+A03121,Perikanan komersil di darat
+A03122,Pengambilan krustasia dan moluska air tawar
+A03123,Pengambilan haiwan akuatik air tawar
+A03124,Pengumpulan flora dan fauna air tawar
+A02202,Perikanan ikan air tawar t.t.t.l.
+A02203,Ternakan ikan di laut
+A02204,"Pengeluaran dwi-cangkerang spat (tiram, kupang), anak udang kara, anak udang dan benih ikan"
+A03129,Penanaman rumpair merah dan rumpai laut lain yang boleh dimakan
+A03211,"Pengkulturan krustasia, dwi-cangkerang, moluska dan haiwan akuatik lain di laut"
+A03213,Aktiviti akuakultur air payau
+A03214,Aktiviti akuakultur di dalam tangki air atau takungan masin
+A03215,Operasi penetasan anak benih (laut)
+A03217,Operasi ladang ternakan cacing laut untuk makanan ikan
+A03218,Akuakultur laut t.t.t.l.
+A03219,Ternakan ikan air tawar
+A03221,Ternakan udang air tawar
+A03222,"Pengkulturan krustasia, dwi-cangkerang, moluska dan haiwan akuatik lain di air tawar"
+A03224,Operasi penetasan anak benih (air tawar)
+A03225,Penternakan katak
+A03229,Akuakultur air tawar t.t.t.l.
+B06102,Perlombongan batu arang pepejal
+B06201,Perlombongan lignit (batu arang perang)
+B06205,Pengekstrakan minyak petroleum mentah 
+B08915,Pengekstrakan bitumen atau minyak batu syal dan pasir tar
+B08917,Pengeluaran petroleum mentah daripada batu syal dan pasir berbitumen
+B08933,Proses mendapatkan minyak mentah(2)  
+B08993,Pengeluaran hidrokarbon mentah bergas (gas asli)
+B08999,Pengekstrakan kondensat
+B05100,Penyaliran dan pemisahan komponen hidrokarbon cecair
+B05200,Penyahsulfuran gas
+B06101,"Perlombongan cecair hidrokarbon, diperoleh melalui pencairan atau penguraian kimia (pyrolisis)"
+B06103,Perlombongan bijih yang tinggi kandungan besi
+B06104,Pengekstrakan dan penggumpulan bijih besi
+B06202,Perlombongan bijih uranium dan torium
+B06203,Perlombongan bijih timah 
+B06204,Perlombongan tembaga
+B07101,Perlombongan bauksit (aluminium)
+B07299,Perlombongan ilmenit
+B08101,Perlombongan emas
+B08102,Perlombongan perak
+B08103,Perlombongan platinum
+B08104,Pembilasan amang
+B08105,Perlombongan bijih logam bukan besi lain t.t.t.l.(3) 
+B08106,"Pengkuarian, pemotongan kasar bongkah batu dan batu bangunan seperti marmar, granit (dimension stone), batu pasir"
+B08107,"Pengkuarian, penghancuran dan pemecahan batu kapur"
+B08108,Perlombongan gipsum dan anhidrit
+B08109,Perlombongan kapur dan dolomite yang tidak dirawat
+B08911,"Pengekstrakan dan penggorekan bagi industri pasir, pasir untuk sektor pembinaan dan kerikil"
+B08912,Pemecahan dan penghancuran batu dan kerikil
+B08913,Pengkuarian pasir(2)
+B08914,"Perlombongan tanah liat, refraktori tanah liat dan kaolin"
+B07102,"Pengkuarian, penghancuran dan pemecahan granit"
+B07210,Perlombongan fosfat semulajadi
+B07291,Perlombongan garam kalium (potassium) semulajadi
+B07292,Perlombongan sulfur semulajadi
+B07293,"Pengekstrakan dan penyediaan pirit dan pirotit, kecuali penyalaian"
+B07294,Perlombongan barium sulfat semulajadi dan karbonat (baryte and witerit)
+B07295,"Perlombongan borat semula jadi, magnesium sulfat semulajadi (kieserit)"
+B07296,"Perlombongan earth colours, fluorspar dan mineral lain yang tinggi kandungan mineral sebagai sumber kimia"
+B07297,Perlombongan guano
+B07298,Penggalian tanah gambut
+B08916,Penggumpulan tanah gambut
+B08918,Penyediaan tanah gambut untuk pembaikan kualiti atau kemudahan pengangkutan atau penstoran
+B08921,Pengekstrakan garam dari bawah tanah
+B08922,Pengeluaran garam melalui penyejatan air laut atau air masin lain
+B08923,"Penghancuran, penulenan dan penapisan garam oleh pengeluar"
+B08931,Perlombongan dan pengkuarian bahan pelelas (bahan kesat)
+B08932,Perlombongan dan pengkuarian asbestos
+B08991,Perlombongan dan pengkuarian fosil bersilika
+B08992,Perlombongan dan pengkuarian grafit  semulajadi
+B08994,Perlombongan dan pengkuarian steatite (talkum)
+B08995,Perlombongan dan pengkuarian batu permata
+B08996,Perlombongan dan pengkuarian lain t.t.t.l
+B09101,Aktiviti pengekstrakan petroleum dan gas yang dibekalkan atas dasar kontrak atau yuran
+B09102,Perkhidmatan memadam kebakaran di lapangan minyak dan gas
+B09900,Aktiviti sokongan perlombongan dan pengkuarian lain 
+C27900,Pemprosesan dan pengawetan daging dan pengeluaran produk daging
+C28110,Pemprosesan dan pengawetan ayam itik dan produk ayam itik
+C28120,Pengeluaran belulang dan kulit daripada rumah penyembelihan
+C28130,"Operasi rumah penyembelihan yang terlibat dalam pembunuhan, pembersihan atau pembungkusan daging"
+C28140,Pemprosesan dan pengawetan daging t.t.t.l
+C28150,"Pengetinan ikan, krustasea dan moluska"
+C28160,"Pemprosesan dan pengawetan ikan, krustasea dan moluska"
+C28170,Pengeluaran makanan berasaskan ikan untuk manusia atau haiwan
+C28180,Pengeluaran keropok termasuk keropok lekor
+C28191,Pemprosesan rumpai laut
+C28192,Pembuatan produk makanan buah-buahan dan sayur-sayuran
+C28199,Pembuatan jus buah-buahan dan sayur-sayuran
+C28210,Pengetinan nanas
+C28220,"Pembuatan jem, marmalad dan sajian jeli"
+C28230,Pembuatan kacang dan produk kekacang
+C28240,Pembuatan produk tauhu
+C28250,Pembuatan minyak sawit mentah
+C28260,Pembuatan minyak sawit bertapis
+C28290,Pembuatan minyak isirong
+C29101,Pembuatan minyak sayuran mentah dan bertapis
+C29102,Pembuatan minyak kelapa
+C29200,Pembuatan sebatian lemak masakan
+C29300,Pembuatan minyak dan lemak haiwan
+C30110,Pembuatan aiskrim dan ais lain yang boleh dimakan seperti sorbet
+C30120,"Pembuatan susu pekat, tepung dan sejat"
+C30200,Pembuatan produk tenusu lain t.t.t.l
+C30300,Pengilangan beras
+C30400,Perkhidmatan persediaan pengilangan
+C30910,Pengilangan tepung
+C30920,Pembuatan produk bijian t.t.t.l
+C30990,Pembuatan kanji dan produk berkanji
+C31001,"Pembuatan glukosa, sirap glukosa, maltosa, inulin"
+C31002,Pembuatan tepung/produk sagu dan ubi kayu
+C31003,Pembuatan biskut dan cookies
+C31009,"Pembuatan roti, kek dan produk bakeri lain"
+C32110,Pembuatan produk snek
+C32120,Pembuatan produk bakeri yang dibeku
+C32200,Pembuatan gula
+C32300,Pembuatan produk daripada gula
+C10742,Pembuatan produk koko
+C10750,Pembuatan coklat dan produk coklat
+C10791,Pembuatan konfeksi gula
+C10792,"Pembuatan bihun, mi dan produk lain yang berkaitan"
+C10793,Pembuatan pasta
+C10794,Pembuatan makanan dan hidangan tersedia
+C10795,Pembuatan kopi
+C10799,Pembuatan teh
+C10800,Pembuatan sos dan bahan perasa
+C11010,Pembuatan rempah ratus dan serbuk kari
+C11020,Pembuatan produk berasaskan telur
+C11030,Pembuatan produk makanan lain t.t.t.l
+C11041,Pembuatan makanan haiwan tersedia
+C11042,"Penyulingan, pembersihan dan pencampuran spirit"
+C12000,Pembuatan wain
+C13110,Pembuatan minuman keras malt dan malt
+C13120,Pembuatan minuman ringan
+C13131,Pengeluaran air mineral semulajadi dan minuman lain yang dibotolkan
+C13132,Pembuatan produk tembakau
+C13139,Penyediaan dan pemintalan gentian tekstil
+C13910,Penenunan tekstil
+C13921,Membuat batik
+C13922,"Pewarnaan, pelunturan, percetakan dan penyiapan akhir benang dan fabrik"
+C13930,Penyiapan akhir tekstil lain
+C13940,Pembuatan fabrik dikait dan dikrusye 
+C16221,"Pembuatan artikel tersedia bagi bahan tekstil seumpamanya, termasuk fabrik dikait atau dikrusye"
+C16222,Pembuatan artikel perhiasan tersedia
+C16230,Pembuatan permaidani dan hamparan
+C16291,"Pembuatan bagi tali-temali, tali, tali pintal dan jaring"
+C16292,Pembuatan tekstil lain t.t.t.l.
+C17010,Pembuatan pakaian spesifik
+C17020,Pembuatan pakaian
+C17091,Jahitan pakaian tempahan 
+C17093,Pembuatan aksesori pakaian lain
+C17094,Pembuatan artikel daripada kulit bulu
+C17099,Pembuatan pakaian yang dikait dan dikrusye 
+C18110,Penyamakan dan pembersihan kulit; pembersihan dan pewarnaan bulu
+C18120,"Pembuatan bagasi, beg tangan dan seumpamanya, pelana dan abah-abah"
+C18200,Pembuatan kasut kulit
+C19100,Pembuatan kasut plastik
+C19201,Pembuatan kasut getah
+C19202,Pembuatan kasut lain t.t.t.l
+C20111,Pengilangan dan pengetaman kayu
+C20112,Pembuatan kepingan venier dan papan lapis
+C20113,Pembuatan papan partikel dan papan gentian 
+C20119,Pertukangan kayu untuk jurubina
+C20121,Pembuatan produk tanggam kayu
+C20129,Pembuatan bekas kayu
+C24312,Pembuatan kayu arang
+C24320,"Pembuatan produk kayu lain; rotan, artikel gabus, jerami dan bahan jalinan"
+C25111,"Pembuatan pulpa, kertas dan kertas tebal"
+C25112,Pembuatan kertas gelugur dan kertas tebal dan bekas daripada kertas dan kertas tebal
+C25113,Pembuatan sampul surat dan kad surat
+C25119,Pembuatan kertas kegunaan rumah dan pembersih peribadi
+C25120,Pembuatan kertas bergam atau pelekat yang berjalur atau bergulung dan label dan kertas dinding 
+C25200,"Pembuatan patung, barangan kertas upacara pengebumian, kertas colok"
+C25910,Pembuatan barang kertas dan kertas tebal lain yang t.t.t.l.
+C25920,Percetakan
+C25930,Aktiviti perkhidmatan berkaitan percetakan
+C25991,Penerbitan semula media rakaman
+C25993,Pembuatan produk ketuhar kok
+C25994,Pembuatan produk petroleum bertapis
+C25999,Pembuatan produk bio-diesel
+C26101,Pembuatan gas perindustrian atau perubatan bukan organik dalam bentuk cecair atau mampat 
+C26102,Pembuatan kimia organik asas
+C26103,Pembuatan sebatian bukan organik
+C26105,Pembuatan kimia asas lain t.t.t.l
+C26109,Pembuatan baja
+C26201,Pembuatan produk campuran nitrogen
+C26202,"Pembuatan getah sintetik dalam bentuk primer: getah sintetik, tiruan"
+C26300,Pembuatan campuran getah sintetik dan getah asli atau getah–seperti perekat
+C26400,Pembuatan campuran getah sintetik dan getah asli atau getah–seperti perekat
+C26511,Pembuatan racun perosak dan produk agrokimia lain
+C26512,"Pembuatan cat, varnis dan penyadur dan mastik"
+C26520,Pembuatan dakwat cetak
+C26600,"Pembuatan sabun dan bahan pencuci, penyediaan membersih dan mengilat"
+C26701,Pembuatan pewangi dan penyediaan dandanan diri
+C26702,"Pembuatan plat fotografi, filem, sensitized paper dan other sensitized unexposed materials "
+C26800,Pembuatan dakwat menulis dan melukis
+C27101,Pembuatan produk kimia lain t.t.t.l
+C27102,Pembuatan serat buatan manusia
+C27200,Pembuatan bahan aktif ubat-ubatan untuk digunakan oleh bidang farmakologi dalam pembuatan ubat-ubatan
+C27310,Pemprosesan darah
+C27320,Pembuatan ubat-ubatan
+C27330,Pembuatan produk kimia bagi pencegah kehamilan
+C27400,Pembuatan penyediaan diagnosis perubatan
+C26104,Pembuatan bahan diagnosis in-vivo radioaktif
+C27500,Pembuatan farmaseutikal bioteknologi
+C20131,"Pembuatan produk farmaseutikal, kimia perubatan dan botani t.t.t.l"
+C20132,Pembuatan tayar getah untuk kenderaan
+C20133,Pembuatan bunga tayar yang boleh ditukar ganti dan tayar celup
+C20210,"Pembuatan produk lain daripada getah asli atau sintetik, tidak divulkan, divulkan atau dikeraskan"
+C20221,Pembuatan sarung tangan getah
+C20231,Pengilangan semula getah dan prosesan susu getah
+C20232,Pembuatan produk getah lain yang t.t.t.l
+C20292,Pembuatan produk plastik separa siap
+C20299,Pembuatan produk plastik siap
+C20300,Pembuatan artikel plastik untuk pembungkusan barangan
+C21001,Pembuatan barangan plastik jurubina
+C21003,"Pembuatan pinggan mangkuk, peralatan dapur dan barangan tandas daripada plastik"
+C21004,Pembuatan pelbagai produk plastik t.t.t.l
+C21006,"Pembuatan kaca leper, termasuk kaca leper berdawai, berwarna atau sedikit berwarna"
+C21007,"Pembuatan barangan kaca makmal, barangan kesihatan atau farmaseutikal"
+C22111,Pembuatan produk kaca lain t.t.t.l
+C22112,Pembuatan mortar refraktori dan konkrit 
+C22191,Pembuatan barangan seramik refraktori
+C22192,Pembuatan seramik bukan refraktori
+C22193,Pembuatan lain-lain bahan binaan dari tanah liat
+C22199,Pembuatan produk porselin dan seramik lain
+C22201,Pembuatan simen hidraulik
+C22202,Pembuatan kapur dan plaster
+C22203,Pembuatan konkrit dan mortar siap bancuh dan bancuhan kering
+C22204,"Pembuatan konkrit pratuangan, simen atau artikel batu buatan yang digunakan dalam pembinaan"
+C22205,"Pembuatan komponen struktur pasang siap untuk bangunan atau kejuruteraan awam dari simen, batu atau konkrit buatan"
+C22209,"Pembuatan artikel konkrit, simen dan plaster lain t.t.t.l"
+C23101,"Pemotongan, pembentukan dan penyiapan batu"
+C23102,Pembuatan produk mineral bukan logam lain t.t.t.l.
+C21009,"Pengeluaran jongkong besi dan spiegeleisen dalam bentuk jongkong, blok atau dalam bentuk asal lain"
+C23911,Pembuatan batang dan rod keluli tahan karat atau keluli aloi lain
+C23912,"Pembuatan tiub tidak berkelim, dengan penggelekan, picitan atau tempaan panas, atau dengan tempaan atau penggelekan sejuk"
+C23921,Pembuatan kelengkapan tiub keluli
+C23929,Pembuatan produk besi asas dan keluli lain t.t.t.l
+C23941,Peleburan timah
+C23942,Pengeluaran aluminium daripada alumina
+C23951,Pembuatan logam asas berharga dan logam bukan ferus lain t.t.t.l
+C23952,Pengacuan besi
+C23953,Pengacuan keluli
+C23959,Pengacuan logam bukan ferus
+C23960,Pembuatan kerangka kerja perindustrian daripada logam
+C23990,Pembuatan bangunan pasang siap terutamanya daripada logam
+C24101,"Pembuatan pintu, tingkap dan bingkai, penutup tingkap dan pintu pagar daripada logam"
+C24102,Pembuatan produk struktur logam lain
+C24103,"Pembuatan tangki, takungan dan kontena daripada logam"
+C24104,"Pembuatan penjana wap, kecuali dandang pemanasan air berpusat("
+C24109,Pembuatan senjata dan peluru
+C24201,"Tempaan, tekanan, hentakan dan bentuk gelekan logam; serbuk metalurgi"
+C24202,Rawatan dan penyalutan logam; menggunakan mesin
+C24209,"Pembuatan kutleri, alatan pertukangan tangan dan perkakasan am"
+C24311,"Pembuatan tin  untuk produk makanan dan minuman, tiub dan kotak boleh dilipat"
+C32400,"Pembuatan kabel, plaited bands (jalur/pita berpintal) dan artikel seumpamanya daripada logam"
+C32500,"Pembuatan bolt, skru, nat dan produk uliran seumpamanya"
+C32901,Pembuatan barangan rumah daripada logam
+C32909,Pembuatan produk lain yang direka daripada logam t.t.t.l
+C33110,"Pembuatan diod, transistor dan alatan semikonduktor yang seumpamanya"
+C33120,Pembuatan litar elektronik bersepadu dengan pemasangan mikro
+C33131,Pembuatan kapasitor dan perintang elektrik
+C33132,Pembuatan papan litar bercetak
+C33133,Pembuatan komponen paparan
+C33140,Pembuatan komponen lain untuk aplikasi elektronik
+C33150,Pembuatan komputer
+C33190,Pembuatan kelengkapan peranti
+C33200,Pembuatan peralatan komunikasi
+C13990,Pembuatan elektronik pengguna
+C14101,"Pembuatan kelengkapan mengukur, menguji, memandu arah dan kawalan"
+C14102,Pembuatan kelengkapan kawalan proses perindustrian
+C14103,Pembuatan jam tangan dan jam dan bahagiannya
+C14109,"Pembuatan peralatan penyinaran, perubatan elektro dan elektroterapeutik"
+C14200,Pembuatan instrumen dan kelengkapan optikal
+C14300,Pembuatan peralatan fotografi
+C15110,Pembuatan media rakaman magnetik dan optikal
+C15120,"Pembuatan motor elektrik, penjana dan transformer"
+C15201,Pembuatan perkakasan pengagihan dan pengawalan elektrik
+C15202,Pembuatan bateri dan akumulator
+C15203,Pembuatan kabel gentian optikal
+C15209,Pembuatan wayar dan kabel elektronik dan elektrik lain
+C16100,Pembuatan alatan pendawaian pembawa dan bukan pembawa arus untuk litar elektrik (tanpa mengira jenis bahan)
+C16211,Pembuatan kelengkapan pencahayaan elektrik
+C16212,Pembuatan perkakasan domestik
+C10619,"Pembuatan pelbagai kelengkapan elektrik selain daripada motor, penjana dan transformer, bateri dan akumulator, wayar dan alatan pendawaian, kelengkapan pencahayaan atau perkakasan domestik"
+C10621,"Pembuatan enjin dan turbin, kecuali enjin pesawat, kenderaan dan sikal "
+C10622,Pembuatan alat-alat kuasa bendalir
+C10711,"Pembuatan pam, pemampat, kepala paip dan injap lain"
+C10712,"Pembuatan penggalas, gear, elemen gear dan pemanduan"
+C10713,"Pembuatan ketuhar, relau dan relau pembakar"
+C10714,Pembuatan kelengkapan mengangkat dan mengendali
+C10721,Pembuatan mesin dan kelengkapan pejabat (kecuali kelengkapan komputer dan peranti)
+C10731,Pembuatan alatan tangan yang menggunakan kuasa dilengkapkan dengan motor elektrik atau bukan motor elektrik atau pneumatik
+C10732,Pembuatan kelengkapan penyejukan atau pembekuan perindustrian
+C10733,"Pembuatan mesin penyaman udara, termasuk untuk kenderaan bermotor"
+C10741,Pengeluaran mesin tujuan umum lain t.t.t.l
+C10405,Pembuatan mesin bagi pertanian dan perhutanan
+C10502,Pembuatan jentera pembentukan logam dan alatan mesin
+C10623,Pengeluaran bagi jentera untuk metalurgi
+C20291,"Pembuatan mesin untuk perlombongan, pengkuarian dan pembinaan"
+C21002,"Pembuatan mesin untuk makanan, minuman dan pemprosesan tembakau"
+C21005,"Pembuatan mesin untuk tekstil, pakaian dan pengeluaran kulit"
+C23109,Pembuatan lain-lain mesin bertujuan khas t.t.t.l.
+C23930,Pembuatan kereta penumpang
+C25130,Pembuatan kenderaan komersial
+C25992,Pembuatan kerangka (coachwork) untuk kenderaan bermotor; pembuatan treler dan semi treler
+C10722,Pembuatan alat ganti dan aksesori untuk kenderaan bermotor
+C17092,Pembinaan kapal dan struktur terapung
+C20222,Pembinaan bot persiaran dan sukan
+C10102,Pembuatan keretapi lokomotif dan rolling stock
+C10103,Pembuatan pesawat dan kapal angkasa dan jentera berkaitan
+C10104,Pembuatan kenderaan tempur ketenteraan
+C10109,Pembuatan motosikal
+C10201,Pembuatan basikal dan invalid carriages
+C10202,Pembuatan kelengkapan pengangkutan lain t.t.t.l.
+C10203,Pembuatan perabot kayu dan rotan
+C10204,Pembuatan perabot logam
+C10205,Pembuatan tilam
+C10301,"Pembuatan perabot lain kecuali daripada batu, konkrit atau seramik"
+C10101,Pembuatan barang kemas dan artikel berkaitan 
+C10302,Pembuatan barang kemas tiruan dan artikel berkaitan
+C10303,Pembuatan instrumen muzik
+C10304,Pembuatan barangan sukan
+C10305,Pembuatan permainan dan mainan 
+C10306,Pembuatan peralatan dan bekalan perubatan dan pergigian 
+C10401,Pembuatan alat tulis
+C10402,Pembuatan lain t.t.t.l
+C10403,Pembaikan produk logam yang direka
+C10404,Pembaikan dan penyelenggaraan jentera dan kelengkapan industri
+C10406,"Pembaikan dan penyelenggaraan peralatan menyukat, menguji, memandu arah dan kelengkapan kawalan"
+C10407,"Pembaikan dan penyelenggaraan penyinaran, perubatan elektro dan kelengkapan electrotherapeutic"
+C10501,Pembaikan bagi peralatan optikalal dan alatan fotografi
+C10509,Pembaikan dan penyelenggaraan peralatan elektrik kecuali penggunaan domestik
+C10611,Pembaikan dan penyelenggaraan kelengkapan pengangkutan kecuali motosikal dan basikal-basikal
+C10612,Pembaikan dan penyelenggaraan peralatan lain t.t.t.l.
+C10613,Pemasangan bagi perindustrian mesin dan kelengkapan
+D35101,Operasi kemudahan penjanaan yang menghasilkan tenaga elektrik
+D35102,"Operasi penghantaran, pengagihan dan penjualan elektrik"
+D35201,"Pembuatan bahan api berunsur gas yang mempunyai spesifikasi nilai calorific, mengikut  penulenan, pencampuran dan proses lain dari jenis gas yang lain(2) termasuk gas asli"
+D35203,"Pengangkutan, pengagihan dan bekalan semua jenis bahan api berunsur gas melalui sistem saluran utama"
+D35301,Penjualan gas kepada pengguna melalui saluran utama
+D35303,"Pengeluaran, pengumpulan dan pengagihan wap dan air panas untuk pemanasan, tenaga dan tujuan lain"
+D35202,"Pengeluaran dan pengagih udara dingin, air yang disejukkan bagi tujuan pendinginan"
+D35302,"Pengeluaran ais, termasuk ais untuk tujuan makanan dan bukan makanan (cth. pendinginan)"
+E38303,Penulenan dan pengagihan air untuk tujuan bekalan air (2)
+E38304,Penyahmasinan air laut atau bawah tanah untuk menghasilkan air sebagai kepentingan produk utama(3)
+E38309,Pembetungan dan aktiviti-aktiviti yang seumpamanya(1)
+E39000,Pengumpulan sisa pepejal yang tidak berbahaya (cth. sampah) di kawasan setempat
+E36001,Pengumpulan bahan kitar semula
+E37000,Pengumpulan sampah dalam tong sampah di kawasan awam
+E38111,Pengumpulan sisa pembinaan dan runtuhan
+E38112,Operasi stesen pemindahan pembuangan sisa tidak berbahaya
+E38114,Pengumpulan sisa berbahaya(3)
+E38115,Operasi stesen pemindahan pembuangan bagi sisa berbahaya
+E38121,Rawatan dan pelupusan sisa tidak berbahaya(3)
+E38210,Rawatan dan pelupusan sisa berbahaya(2)
+E38220,Meremukkan secara mekanikal sisa logam(1
+E38301,"Meleraikan peralatan automobil, komputer, televisyen dan peralatan lain untuk pemulihan bahan(2)"
+E36002,Memulih guna getah seperti tayar terpakai untuk menghasilkan bahan mentah sekunder(3)
+E38113,Penggunaan semula produk getah
+E38122,Pemulihan bahan t.t.t.l.(4)
+E38302,Aktiviti pemulihan dan lain-lain perkhidmatan pengurusan sisa(2)
+F42104,Bangunan kediaman(2)
+F42105,Bangunan bukan kediaman(3)
+F42106,Pemasangan dan pendirian bangunan pasang siap di tapak pembinaan
+F42202,Pembinaan bangunan t.t.t.l.(4)
+F42203,"Pembinaan laluan kenderaan bermotor, lorong, jalan, laluan pejalan kaki dan kenderaan lain"
+F42204,"Kerja penurapan jalan, jalan raya, lebuhraya, jambatan atau terowong(2)"
+F42205,Pembinaan jambatan termasuk untuk lebuhraya bertingkat
+F42206,Pembinaan terowong
+F42207,Pembinaan landasan kereta api dan laluan bawah tanah
+F42209,Pembinaan landasan lapangan terbang
+F42901,Pembinaan jalan raya dan landasan kereta api t.t.t.l
+F42902,"Saluran paip jarak jauh, talian komunikasi dan kuasa"
+F42903,"Saluran paip dalam bandar, talian komunikasi dan kuasa dalam bandar; kerja-kerja berkaitan dalam bandar"
+F42904,Pembinaan punca dan saluran air
+F42905,Loji takungan
+F42909,Pembinaan sistem pengairan (terusan)
+F43110,Pembinaan sistem pembetungan (termasuk pembaikan) dan loji pelupusan sisa kumbahan
+F43121,Pembinaan janakuasa
+F43122,Pembinaan projek utiliti t.t.t.l.(2)
+F43125,Pembinaan loji penapisan
+F43126,"Pembinaan laluan air, kerja pelabuhan dan sungai, pleasure ports (marinas), kunci air"
+F43129,Pembinaan empangan dan daik
+F43211,Penggalian laluan air
+F43212,Kemudahan sukan luar dewan
+F42109,Pembahagian tanah berserta dengan penambahbaikan tanah(2)
+F42201,Pembinaan projek kejuruteraan awam lain t.t.t.l.
+F43214,Perobohan atau peranapan bangunan dan struktur lain
+F43215,Pembersihan tapak bangunan
+F43216,Pengalihan tanah(2)
+F43219,"Pengujian tanah, pengerudian dan penggalian tanah untuk tujuan pembinaan, geofizikal, geologikal atau tujuan seumpamanya"
+F43222,Penyediaan tapak bagi perlombongan(3)
+F43223,Perparitan bagi tanah pertanian atau perhutanan
+F43224,Kerja penebusgunaan tanah
+F43226,Aktiviti penyediaan tapak lain t.t.t.l.
+F43227,Pendawaian dan pemasangan elektrik
+F43228,Pendawaian telekomunikasi
+F43229,Pendawaian rangkaian komputer dan kabel televisyen(2)
+F43292,Piring satelit
+F43293,Sistem pencahayaan(3)
+F43295,Sistem keselamatan(4)
+F43299,Pemasangan elektrik t.t.t.l.
+F43303,"Pemasangan sistem pemanasan (elektrik, gas dan minyak)"
+F43304,"Pemasangan relau, menara pendinginan"
+F43305,Pemasangan pengumpul tenaga solar bukan elektrik
+F43306,Pemasangan sistem paip dan peralatan sanitasi
+F43309,"Pemasangan peralatan dan saluran pengudaraan, penyejukan atau pendinginan udara"
+F43901,Pemasangan kelengkapan gas
+F43902,Pemasangan sistem perenjis air untuk kebakaran dan padang
+F43903,Pemasangan paip untuk wap
+F43904,"Pemasangan sistem paip, pemanasan dan pendinginan udara t.t.t.l."
+F43905,"Pemasangan lif, eskalator dalam bangunan atau projek pembinaan lain(2)"
+F43906,Pemasangan pintu automatik dan berputar dalam bangunan atau projek pembinaan lain
+F43907,Pemasangan konduktor kilat dalam bangunan atau projek pembinaan lain
+F43909,Pemasangan sistem pembersihan vakum dalam bangunan atau projek pembinaan lain
+F41003,"Pemasangan sistem penebatan haba, bunyi atau gegaran dalam bangunan atau projek pembinaan lain"
+F41009,Pemasangan pembinaan lain t.t.t.l.
+F42101,"Pemasangan rangka pintu, tingkap, rangka /bingkai pintu dan tingkap daripada kayu atau bahan lain, dapur pasang siap, tangga, kelengkapan kedai dan perabot(2)"
+F42102,"Melapis, memasang jubin, menggantung atau memasang kelengkapan bangunan atau projek pembinaan lain daripada pelbagai bahan(3)"
+F42103,Mengecat dalam dan luar bangunan
+F43123,Mengecat struktur kejuruteraan awam
+F43213,"Pemasangan kaca, cermin"
+F43221,Penyiapan dalaman bangunan(4)
+F43225,Pembersihan bangunan baru selepas kerja pembinaan
+F43291,Penyiapan dan kemasan bangunan lain t.t.t.l.
+F43294,"Pembinaan tapak, termasuk memantak cerucuk"
+F43301,Pembinaan elemen keluli yang bukan dibuat sendiri
+F43307,Memasang dan membuka semula perancah dan platform kerja
+F41001,Kerja mengikat dan menyusun bata
+F41002,Pembinaan kolam renang luar bangunan
+F42906,"Pembersihan menggunakan stim, pancutan air deras berpasir dan aktiviti seumpamanya untuk luar bangunan"
+F43124,Penyewaan jentera dan peralatan pembinaan dengan operator (cth. kren)
+F43302,Aktiviti pembinaan pertukangan khas lain t.t.t.l
+G45101,Jualan borong dan runcit kenderaan bermotor baru
+G45102,Jualan borong dan runcit kenderaan bermotor terpakai
+G45103,"Jualan kenderaan industri, komersial dan pertanian- baru(2)"
+G45104,"Jualan kenderaan industri, komersial dan pertanian- terpakai"
+G45105,Jualan oleh agen komisen
+G45106,Lelongan kereta
+G45109,Jualan lain-lain kenderaan bermotor t.t.t.l
+G45201,Penyelenggaraan dan pembaikan kenderaan bermotor(2)
+G45202,Menyembur dan mengecat
+G45203,Mencuci dan menggilap (cuci kereta)
+G45205,Pembaikan tempat duduk kenderaan bermotor
+G45401,Pemasangan komponen (termasuk alat ganti) dan aksesori bukan sebahagian daripada proses pembuatan
+G45402,"Jualan borong dan runcit semua jenis komponen, alat ganti, bekalan, peralatan dan aksesori kenderaan bermotor(2)"
+G45403,Jualan borong dan runcit motosikal(2)
+G46100,Jualan borong dan runcit komponen (termasuk alat ganti) dan aksesori motosikal(3)
+G46201,Pembaikan dan penyelenggaraan motosikal
+G46202,Jualan borong berdasarkan kontrak atau yuran
+G46203,Jualan borong getah
+G46204,Jualan borong minyak kelapa sawit
+G46205,Jualan borong kayu balak dan kayu-kayan
+G46311,Jualan borong bunga-bungaan dan tumbuh-tumbuhan
+G46312,Jualan  borong ternakan
+G46313,Jualan borong bahan mentah pertanian dan haiwan hidup t.t.t.l
+G46314,"Jualan borong daging, unggas dan telur"
+G46321,Jualan borong ikan dan lain-lain makanan laut
+G46322,Jualan borong buah-buahan
+G46323,Jualan borong sayur-sayuran
+G46324,"Jualan borong daging, ikan, buah-buahan dan sayur-sayuran t.t.t.l."
+G46326,"Jualan borong beras, bijirin lain, tepung dan gula"
+G46327,Jualan borong hasil tenusu
+G46329,Jualan borong konfeksi
+G46412,"Jualan borong biskut, kek, roti dan produk bakeri lain "
+G46413,"Jualan borong kopi, teh dan minuman lain"
+G46414,"Jualan borong bir, wain dan spirit(1)"
+G46416,"Jualan borong tembakau, cerut, rokok"
+G46417,Jualan borong barang makanan lain (2)
+G47611,Jualan borong benang dan fabrik
+G47612,"Jualan borong linen, tuala dan selimut isi rumah"
+G47620,Jualan borong pakaian(2)
+G47631,Jualan borong aksesori pakaian (3)
+G47632,Jualan borong pakaian daripada bulu binatang
+G47633,Jualan borong kasut
+G47634,Jualan borong bahan jahitan(4)
+G47635,"Jualan borong tekstil, pakaian t.t.t.l.(5)"
+G47640,Jualan borong barangan farmaseutikal dan perubatan
+G47711,"Jualan borong pewangi, kosmetik, sabun dan kelengkapan dandanan diri"
+G47712,Jualan borong basikal dan komponen (termasuk alat ganti) dan aksesori
+G47713,Jualan borong barangan fotografi dan optik(1)
+G47721,Jualan borong barangan kulit dan aksesori kembara(2) 
+G47731,"Jualan borong peralatan muzik, permainan dan barang mainan, barangan sukan(3)"
+G47732,Jualan borong kraftangan dan bunga tiruan
+G47733,Jualan borong bunga keratan dan tumbuhan
+G47734,Jualan borong jam tangan dan jam dinding
+G47735,Jualan borong barang kemas
+G47737,Jualan borong perabot isi rumah
+G47738,Jualan borong perkakas isi rumah 
+G47597,Jualan borong peralatan lampu
+G47598,"Jualan borong perkakas dapur dan kutleri, pinggan mangkuk, barangan kaca dan barangan tembikar "
+G47741,"Jualan borong barangan kayu, anyaman rotan dan barangan gabus"
+G47742,Jualan borong barangan elektrik dan elektronik(2)
+G47743,"Jualan borong alat tulis, buku, majalah dan surat khabar"
+G47744,Jualan borong lain-lain barangan isi rumah t.t.t.l.
+G47749,"Jualan borong perkakasan komputer, perisian dan peranti "
+G46699,"Jualan borong kelengkapan telefon dan telekomunikasi, telefon selular, alat kelui"
+G46901,Jualan borong komponen elektronik dan aksesori pendawaian(3)
+G46902,"Jualan borong jentera, kelengkapan dan bekalan pertanian(2)"
+G46909,Jualan borong jentera pemotong rumput sebarang cara operasi 
+G47111,"Jualan borong mesin pejabat dan kelengkapan perniagaan, kecuali komputer dan kelengkapan peranti komputer (peripheral) "
+G47112,Jualan borong perabot pejabat
+G47113,Jualan borong peralatan mesin berkawalan komputer(2)
+G47114,"Jualan borong jentera, kelengkapan dan bekalan perindustrian"
+G47191,Jualan borong jentera dan kelengkapan pembinaan dan kejuruteraan awam
+G47192,"Jualan borong lif, eskalator, penghawa dingin, kelengkapan keselamatan dan pemadam api "
+G47193,"Jualan borong lain-lain jentera untuk kegunaan industri, perdagangan dan pengemudian dan lain-lain perkhidmatan t.t.t.l.(3)"
+G47199,"Jualan borong petrol, diesel, pelincir "
+G47211,Jualan borong gas petroleum cecair
+G47213,"Jualan borong bahan api pepejal, cecair dan gas  dan produk berkaitan t.t.t.l.(1)"
+G47214,Jualan borong bijih besi dan bukan besi dan logam 
+G47215,Jualan borong bijih besi dan bukan besi dan logam separuh siap dan produk t.t.t.l.
+G47216,"Jualan borong kayu balak, kayu bergergaji, papan lapis, venier dan produk berkaitan"
+G47219,Jualan borong cat dan varnis
+G47221,Jualan borong bahan pembinaan(1)
+G47222,Jualan borong kelengkapan dan lekapan
+G47300,Jualan borong pemanas air
+G47411,Jualan borong pemasangan dan peralatan kebersihan(2)
+G47412,Jualan borong alatan(3)
+G47420,"Jualan borong dan bekalan lain-lain bahan binaan, hardwer, peralatan paip dan alat pemanas t.t.t.l."
+G47520,Jualan borong bahan kimia industri(2)
+G47531,Jualan borong baja dan produk agrokimia
+G47532,Jualan borong bahan plastik dalam bentuk asal
+G47533,Jualan borong sekerap getah
+G47591,Jualan borong gentian tekstil 
+G47592,"Jual borong kertas secara pukal, bahan pembungkusan"
+G47594,Jual borong batu permata berharga
+G47595,Jual borong bahan buangan dan sekerap dan bahan lain sama ada logam dan bukan logam untuk kitar semula(1)
+G47596,"Melerai bahagian kenderaan, komputer, televisyen dan peralatan lain untuk mendapatkan bahagian yang boleh digunakan dan jual semula(2)"
+G46419,"Jualan borong ikan akuarium, burung dan haiwan peliharaan"
+G46421,Jualan borong makanan haiwan/haiwan peliharaan 
+G46422,Jualan borong pelbagai jenis barang tanpa pengkhususan tertentu t.t.t.l.
+G46431,Kedai runcit
+G46432,Pasar raya
+G46433,Pasar mini
+G46434,Kedai ‘convenience’
+G46441,Gedung serbaneka
+G46442,Gedung serbaneka dan pasar raya
+G46443,Pasar raya besar (Hypermarket)
+G46444,Agen surat khabar dan kedai pelbagai barangan
+G46491,Jualan runcit lain di kedai tanpa pengkhususan t.t.t.l.
+G46492,"Jualan runcit beras, tepung, bijirin lain dan gula"
+G46493,Jualan runcit sayur-sayuran dan buah-buahan segar atau diawet(2)
+G46494,Jualan runcit produk tenusu dan telur
+G46495,Jualan runcit daging dan produk daging (unggas
+G46496,Jualan runcit ikan dan makanan laut lain dan lain-lain produk yang berkaitan
+G46497,Jualan runcit produk bakeri dan konfeksi
+G46499,"Jualan runcit mi, kueh teow, mihun, kulit wantan dan produk makanan lain yang dihasilkan daripada tepung atau soya"
+G46521,Jualan runcit produk makanan lain t.t.t.l.
+G46522,"Jualan runcit bir, wain dan spirit"
+G46531,"Jualan runcit teh, kopi, minuman ringan, air mineral dan minuman lain "
+G46532,Jualan runcit produk tembakau di kedai khusus (3)
+G46592,Jualan runcit bahan api kenderaan di kedai khusus (2) 
+G46593,"Jualan runcit komputer, peralatan dan kelengkapan komputer(2)"
+G46594,Jualan runcit konsol permainan video dan sofwer bukan ditempah khas(3)
+G46595,Jualan runcit peralatan telekomunikasi
+G46599,Jualan runcit peralatan audio dan video di kedai pengkhususan (4)
+G46611,Jualan runcit di kedai khusus yang menjual tekstil (2)
+G46612,"Jualan runcit bahan binaan , hardwer, cat dan kaca (3)"
+G46621,Jualan runcit karpet dan hamparan(5)
+G46622,Jualan runcit langsir dan net 
+G46631,Jualan runcit kertas dinding dan alas lantai
+G46632,Jualan runcit perabot isi rumah 
+G46634,Jualan runcit peralatan lampu 
+G46635,"Jualan runcit perkakas isi rumah, perkakas dapur dan kutleri, pinggan mangkuk, barangan kaca dan barangan tembikar "
+G46636,"Jualan runcit kayu, barangan gabus dan barangan anyaman rotan"
+G46637,Jualan runcit perkakas isi rumah
+G46691,Jualan runcit peralatan muzik dan skor
+G46692,Jualan runcit sistem keselamatan (2)
+G46693,Jualan runcit barangan dan peralatan isi rumah t.t.t.l
+G46694,Jualan runcit bekalan dan peralatan pejabat
+G46695,"Jualan runcit buku, surat khabar dan alat tulis"
+G46696,"Jualan runcit rekod muzik, pita audio, cakera padat, kaset, pita video, VCD dan DVD, pita dan cakera kosong"
+G46697,Jualan runcit barangan dan peralatan sukan
+G46698,Jualan runcit peralatan memancing
+G47820,Jualan runcit barangan perkhemahan
+G47891,Jualan runcit bot dan peralatannya
+G47892,Jualan runcit basikal dan komponen (termasuk alat ganti) dan aksesori yang berkaitan 
+G47893,"Jualan runcit permainan dan barang mainan, diperbuat dari pelbagai bahan"
+G47895,"Jualan runcit pakaian, artikel bagi bulu binatang dan aksesori pakaian(2)"
+G47911,Jualan runcit kasut
+G47912,"Jualan runcit barangan kulit, aksesori kulit serta gantian kulit"
+G47914,"Jualan runcit di kedai khusus yang menjual barang farmaseutikal, perubatan dan ortopedik"
+G47991,"Jualan runcit di kedai khusus yang menjual pewangi, kosmetik dan kelengkapan dandanan diri"
+G47999,Jualan runcit peralatan fotografi dan kepersisan
+G45300,Jualan runcit jam tangan dan jam dinding
+G46209,Jualan runcit barang kemas
+G46319,"Jualan runcit bunga, tumbuhan, biji benih dan baja"
+G46325,"Jualan runcit cenderahati, kraftangan dan barang keagamaan"
+G46411,"Jualan runcit minyak tanah, gas memasak, batu arang dan kayu api"
+G46415,Jualan runcit cermin mata dan barang optik lain(1)
+G46510,"Jualan runcit ikan akuarium, haiwan peliharaan dan makanannya"
+G46591,Jualan runcit di kedai khusus yang menjual barang baru lain t.t.t.l.(2)
+G46633,Jualan runcit buku terpakai
+G46639,Jualan runcit barang elektrik dan elektronik terpakai
+G47194,Jualan runcit barang antik(4)
+G47212,Aktiviti pusat lelongan (runcit)
+G47217,Jualan runcit barangan terpakai t.t.t.l.
+G47230,"Jualan runcit makanan, minuman dan produk tembakau di gerai atau pasar"
+G47413,"Jualan runcit tekstil, baju dan kasut di gerai atau pasar"
+G47510,Jualan runcit permaidani dan di gerai dan pasar
+G47593,Jualan runcit buku di gerai atau pasar
+G47722,Jualan runcit alat permainan dan barang mainan di gerai atau pasar
+G47736,Jualan runcit peralatan isi rumah dan barang elektronik di gerai atau pasar
+G47739,Jualan runcit rekod muzik dan video di gerai atau pasar
+G47810,Jualan runcit sebarang jenis produk melalui pesanan mel
+G47894,Jualan runcit sebarang jenis produk melalui internet
+G47913,"Jualan langsung melalui televisyen, radio dan telefon"
+G47992,Jualan runcit lelongan melalui internet 
+G46596,Jualan runcit sebarang jenis produk melalui jualan langsung atau penjualan dari pintu ke pintu(2)
+G46619,Jualan runcit sebarang jenis produk melalui mesin layan diri (vending machine) 
+G45204,"Jualan runcit lain bukan di kedai, gerai atau pasar t.t.t.l.(3)"
+H49212,Pengangkutan penumpang antara bandar melalui laluan rel
+H49221,"Pengangkutan muatan antara bandar, pinggir bandar dan bandar melalui laluan rel"
+H49222,Perkhidmatan bas bandaraya
+H49223,Perkhidmatan pengangkutan rel penumpang bandar dan pinggir bandar(2)
+H49224,Perkhidmatan bas ekspres(4)
+H49225,Perkhidmatan bas pekerja
+H49229,Perkhidmatan bas sekolah
+H49230,Perkhidmatan operasi teksi dan limosin
+H49300,Sewa kereta dengan pemandu
+H50111,Pengangkutan darat penumpang lain t.t.t.l.(5)
+H50112,Pengangkutan muatan melalui jalan raya
+H50113,Pengangkutan melalui saluran paip
+H50121,"Operasi rombongan, cruise atau bot persiaran"
+H50122,"Operasi feri, teksi air"
+H50211,Sewaan bot santai dengan krew bagi pengangkutan laut dan pesisir pantai(2)
+H50212,"Pengangkutan muatan laut dan pesisir pantai, berjadual atau tidak berjadual"
+H50220,"Pengangkutan tunda atau tolak tongkang, pelantar minyak"
+H51101,"Pengangkutan penumpang melalui sungai, terusan, tasik dan laluan air pedalaman lain(1)"
+H51103,Sewaan bot santai dengan krew bagi pengangkutan air pedalaman
+H51201,"Pengangkutan muatan melalui sungai, terusan, tasik dan laluan air pedalaman lain(2)"
+H51203,Pengangkutan penumpang melalui udara mengikut laluan dan jadual biasa
+H52100,Pengangkutan penumpang tidak berjadual(1)
+H52211,Penyewaan peralatan pengangkutan dengan operator untuk tujuan pengangkutan penumpang
+H52213,Pengangkutan muatan udara mengikut laluan dan berjadual biasa
+H52214,Pengangkutan muatan udara tidak berjadual(1)
+H52219,Penyewaan peralatan pengangkutan  udara dengan operator untuk tujuan pengangkutan muatan
+H52222,Perkhidmatan penggudangan dan penyimpanan
+H52229,Operasi kemudahan terminal(2)
+H52231,Perkhidmatan tunda dan bantuan tepi jalan(3)
+H49211,Operasi kemudahan meletak kenderaan bermotor (medan letak kenderaan)(4)
+H52233,"Perkhidmatan operasi lebuh raya, jambatan dan terowong"
+H52234,Aktiviiti perkhidmatan lain berkaitan pengangkutan darat t.t.t.l.(5)
+H52241,Operasi perkhidmatan pelabuhan dan limbungan(2)
+H52249,Perkhidmatan penyelamat dan pengapungan semula kapal
+H52291,Aktiviti perkhidmatan lain berkaitan pengangkutan air t.t.t.l.(3)
+H49110,Operasi kemudahan terminal(2)
+H53100,Lapangan terbang dan aktiviti kawalan trafik udara
+H53200,Aktiviti perkhidmatan asas di padang terbang
+H52292,Aktiviti melawan dan pencegahan api di lapangan terbang
+H52299,Aktiviti perkhidmatan lain berkaitan pengangkutan udara t.t.t.l.
+H49120,Perkhidmatan pemunggahan
+H51102,Aktiviti pengendalian kargo lain t.t.t.l.
+H51202,Penghantaran muatan(3)
+H52212,Pembrokeran ruang kapal dan kapal terbang
+H52221,Aktiviti sokongan pengangkutan lain t.t.t.l(4)
+H52232,Perkhidmatan pos nasional(2)
+H52239,Aktiviti kurier selain daripada aktiviti pos nasional(2)
+I55101,Hotel dan hotel resort(2)
+I55102,Motel
+I55103,Hotel Apartmen(3)
+I55104,Chalet 
+I55105,Rumah rehat/rumah tetamu
+I55106,Bed and breakfast unit
+I55107,Asrama
+I55108,Homestay
+I55109,Aktiviti penginapan jangka masa pendek yang lain t.t.t.l.
+I55200,"Tapak perkhemahan, taman kenderaan rekreasi dan taman treler(1)"
+I55900,Penginapan lain(1)
+I56101,Restoran dan restoran yang juga kelab malam
+I56102,Kafeteria/kantin
+I56103,Restoran makanan segera
+I56104,Trak ais krim dengan tempat duduk
+I56105,Kenderaan sorong makanan yang bergerak
+I56106,Gerai/penjaja makanan
+I56107,"Makanan dan minuman, penyediaan makanan dan minuman di dalam gerai/penjaja(2)"
+I56210,Katering makanan
+I56290,Aktiviti perkhidmatan makanan lain(2)
+I56301,"Pub, bar, disko, coffee house, ruang koktel dan karaoke"
+I56302,Kedai kopi
+I56303,Gerai/penjaja minuman
+I56304,Perkhidmatan minuman bergerak
+I56309,Tempat minuman lain t.t.t.l.
+J60200,"Penerbitan buku, brosur dan penerbitan lain(2)"
+J61101,"Penerbitan senarai mel, buku telefon dan direktori lain(3)"
+J61102,"Penerbitan surat khabar, jurnal, majalah dan penerbitan berkala dalam bentuk cetakan atau elektronik(4)"
+J61201,"Penerbitan katalog, gambar, turisan dan poskad, kad ucapan, borang, poster, penerbitan semula kerja-kerja seni, bahan pengiklanan dan bahan bercetak lain t.t.t.l."
+J61202,Aplikasi perniagaan dan aplikasi lain 
+J61300,Permainan komputer untuk semua platform(2)
+J61901,Sistem operasi
+J61902,"Aktiviti pengeluaran wayang gambar, video dan program televisyen(2)"
+J61903,"Aktiviti pasca produksi wayang gambar, video dan program televisyen(2)"
+J61905,"Aktiviti pengedaran wayang gambar, video dan program televisyen(2)"
+J61909,Aktiviti penayangan wayang gambar(3)
+J62010,Aktiviti rakaman bunyi dan penerbitan muzik 
+J62021,Penyiaran radio
+J62022,Aktiviti pemprograman dan penyiaran televisyen 
+J58110,Perkhidmatan aktiviti telekomunikasi berwayar
+J58120,Pembekal akses internet oleh operator infrastruktur berwayar
+J58130,Perkhidmatan telekomunikasi tanpa wayar  
+J58190,Pembekal akses Internet oleh operator infrastruktur tanpa wayar
+J58201,Perkhidmatan telekomunikasi satelit
+J58202,Penyediaan akses internet melalui rangkaian di antara pelanggan dan ISP yang bukan dimiliki atau dikawal oleh ISP
+J58203,Penyediaan perkhidmatan telekomunikasi melalui sambungan telekom sedia ada 
+J59110,Penjualan semula telekomunikasi 
+J59120,Penyediaan perkhidmatan telekomunikasi melalui sambungan telekom VOIP (Voice Over Internet Protocol) sedia ada 
+J59130,Penyediaan aplikasi telekomunikasi yang khusus(2
+J59140,Aktiviti telekomunikasi lain t.t.t.l. 
+J59200,Aktiviti pengaturcaraan komputer(2)
+J60100,Perundingan komputer(4
+J61904,Aktiviti pengurusan kemudahan komputer(1)
+J62091,Sistem keselamatan Teknologi Maklumat dan Komunikasi (ICT)
+J62099,Aktiviti perkhidmatan teknologi maklumat lain t.t.t.l.(3)
+J63111,"Aktiviti penyediaan infrastruktur untuk hosting, perkhidmatan prosesan data dan aktiviti yang berkaitan(1)"
+J63112,Aktiviti prosesan data(2)
+J63120,Web portal
+J63910,Aktiviti agensi dan sindiket berita
+J63990,Aktiviti perkhidmatan maklumat lain t.t.t.l.
+K64110,Perbankan pusat
+K64191,Bank Perdagangan
+K64192,Bank Islam
+K64193,Bank Luar Pesisir Pantai(2)
+K64194,Bank Pelaburan
+K64195,Institusi Pembangunan Kewangan (dengan fungsi pengambilan deposit)(3)
+K64199,Perantaraan kewangan lain (dengan fungsi pengambilan deposit) t.t.t.l.
+K64200,Aktiviti syarikat pemegang
+K64923,Syarikat modal usahasama(2)
+K64991,Unit tabung amanah tidak termasuk REITs 
+K64999,Harta unit amanah (REITs)
+K66302,Pengurusan akaun amanah lain
+K64301,"Entiti amanah, tabung dan kewangan seumpamanya t.t.t.l."
+K64302,Aktiviti pajakan kewangan(2)
+K64303,Institusi pembangunan kewangan (tanpa fungsi pengambilan deposit)(4)
+K64304,Perkhidmatan kad kredit 
+K64309,Aktiviti peminjaman wang berlesen
+K64910,"Kedai pajak gadai dan tukang pajak termasuk Ar-Rahnu"
+K64921,Koperasi dengan fungsi kredit 
+K64922,Pemberian kredit lain t.t.t.l.
+K64924,Syarikat pemfaktoran 
+K64925,Wakil pejabat bank asing 
+K64929,Syarikat nomini 
+K64992,"Aktiviti perkhidmatan kewangan lain, kecuali insurans/takaful dan tabungan pencen, t.t.t.l."
+K64993,Insurans Hayat 
+K65111,Takaful keluarga
+K65112,Insurans am 
+K65121,Takaful am 
+K65122,Insurans komposit 
+K65123,Insurans luar pesisir pantai 
+K65124,Takaful luar pesisir pantai(1)
+K65125,Insurans semula hayat
+K65201,Takaful semula keluarga
+K65202,Insurans semula am
+K65203,Takaful semula am
+K65204,Takaful semula komposit
+K65205,Insurans semula luar pesisir pantai
+K65206,Takaful semula luar pesisir pantai
+K65207,Tabungan pencen(2)
+K65301,Tabungan hemat 
+K65302,Bursa saham 
+K66111,Bursa untuk kontrak komoditi 
+K66112,Bursa sekuriti 
+K66113,Bursa kontrak komoditi masa hadapan 
+K66114,Pentadbiran pasaran kewangan t.t.t.l.
+K66119,"Broker stok, saham dan bon "
+K66121,Broker dan peniaga komoditi 
+K66122,Peniaga jongkong emas 
+K66123,Broker dan peniaga tukaran wang asing (Bureaux de change)
+K66124,Perkhidmatan pengurup wang 
+K66125,Broker dan peniaga kewangan dan komoditi masa hadapan lain
+K66129,Perkhidmatan penasihat pelaburan 
+K66191,Perkhidmatan perundingan kewangan 
+K66192,Aktiviti sokongan kepada kewangan t.t.t.l.
+K66199,Perkhidmatan penyesuaian insurans 
+K66211,Perkhidmatan penyesuaian takaful 
+K66212,Ejen insurans 
+K66221,Ejen takaful 
+K66222,Broker insurans 
+K66223,Broker takaful 
+K66224,"Aktiviti sokongan kepada insurans, takaful dan tabungan pencen lain(3) "
+K66290,Pengurusan tabung pencen 
+K66301,Pengurusan aset/portfolio 
+K66303,Syarikat pengurusan unit amanah 
+L68101,"Pembelian, penjualan, penyewaan dan pengendalian bagi hartanah milikan sendiri atau pajakan – bangunan kediaman"
+L68104,"Pembelian, penjualan, penyewaan dan pengendalian bagi hartanah milikan sendiri atau pajakan - bangunan bukan kediaman(2)"
+L68102,"Pembelian, penjualan, penyewaan dan pengendalian bagi hartanah milikan sendiri atau pajakan - tanah"
+L68103,Pembangunan bagi projek yang dibina untuk operasi sendiri spt. untuk sewaan ruang di dalam bangunan(3)
+L68109,Aktiviti hartanah bagi harta milikan sendiri atau pajakan t.t.t.l.(4)
+L68201,"Aktiviti agen dan broker hartanah untuk pembelian, penjualan dan penyewaan hartanah"
+L68202,Pengurusan hartanah atas dasar bayaran atau kontrak
+L68203,Perkhidmatan penilaian hartanah(2)
+L68209,Aktiviti hartanah atas dasar bayaran atau kontrak t.t.t.l.(3)
+M69100,Aktiviti guaman
+M69200,"Aktiviti perakaunan, simpan kira dan audit; perundingan percukaian"
+M70100,Aktiviti ibu pejabat
+M70201,Perkhidmatan perundingan pengurusan perniagaan
+M70202,Perkhidmatan perundingan sumber manusia(2)
+M70203,Perkhidmatan perundingan perhubungan awam dan komunikasi
+M70209,Aktiviti perundingan pengurusan lain t.t.t.l.(3)
+M71101,Perkhidmatan arkitek(2)
+M71102,Perkhidmatan kejuruteraan(3)
+M71103,Perkhidmatan juru ukur tanah(1
+M71109,Aktiviti arkitek dan kejuruteraan lain dan perundingan teknikal berkaitan t.t.t.l.
+M71200,Ujian teknikal dan analisis(1)
+M72101,Penyelidikan dan pembangunan sains semula jadi(1)
+M72102,Penyelidikan dan pembangunan kejuruteraan dan teknologi(2)
+M72103,Penyelidikan dan pembangunan sains perubatan(3)
+M72104,Penyelidikan dan pembangunan bioteknologi
+M72105,Penyelidikan dan pembangunan sains pertanian
+M72106,Penyelidikan dan pembangunan teknologi maklumat dan komunikasi
+M72109,Penyelidikan dan pembangunan sains semula jadi dan kejuruteran lain t.t.t.l.(4)
+M72201,Penyelidikan dan pembangunan sains sosial
+M72202,Penyelidikan dan pembangunan kemanusian
+M72209,"Penyelidikan dan pembangunan sosial sains dan kemanusian lain, t.t.t.l."
+M73100,Pengiklanan(1)
+M73200,Penyelidikan pasaran dan tinjauan pendapat umum(1)
+M74101,Aktiviti hiasan dalaman
+M74102,Perkhidmatan pereka grafik
+M74103,Perkhidmatan rekaan fesyen(2)
+M74109,Aktiviti reka bentuk khusus t.t.t.l.(3)
+M74200,Aktiviti fotografi(2)
+M74901,Aktiviti penterjemahan dan pentafsiran
+M74902,Aktiviti broker perniagaan(2)
+M74903,Perunding keselamatan
+M74904,Aktiviti juru ukur bahan
+M74905,"Aktiviti perunding selain daripada perunding arkitek, kejuruteraan dan pengurusan(1)"
+M74909,"Aktiviti professional, saintifik dan teknikal lain t.t.t.l.(2)"
+M75000,Aktiviti veterinar
+N82110,Penyewaan dan pemajakan operasi kereta penumpang (tanpa pemandu)
+N82191,"Penyewaan dan pemajakan operasi trak, treler pelbagai guna dan kenderaan rekreasi "
+N82192,"Penyewaan dan pemajakan bot peranginan, kenu, perahu layar"
+N82193,Penyewaan dan pemajakan basikal
+N82194,Penyewaan dan pemajakan kerusi pantai dan payung
+N82195,Penyewaan dan pemajakan kelengkapan sukan lain t.t.t.l.
+N81300,"Penyewaan pita video, piring hitam, CD, DVD"
+N82196,"Penyewaan dan pemajakan barang tekstil, pakaian dan kasut"
+N82199,"Penyewaan dan pemajakan barang perabot, tembikar dan kaca, perkakas dapur, barang elektrik dan peralatan rumah(2)"
+N82200,"Penyewaan dan pemajakan barang kemas, peralatan muzik, hiasan latar dan kostum"
+N82301,"Penyewaan dan pemajakan buku, jurnal dan majalah"
+N82302,Penyewaan dan pemajakan mesin dan kelengkapan yang digunakan oleh amatur atau sebagai hobi(3)
+N82910,Penyewaan pokok dan bunga
+N82920,Penyewaan dan pemajakan kelengkapan elektronik untuk kegunaan isi rumah
+N82990,Penyewaan dan pemajakan barangan persendirian dan isi rumah lain t.t.t.l.
+N77293,"Penyewaan dan pemajakan operasi, tanpa operator, untuk mesin dan kelengkapan lain yang biasanya digunakan sebagai barang modal oleh industri(2)"
+N77297,"Penyewaan dan pemajakan operasi, tanpa pemandu, kelengkapan pengangkutan darat (selain daripada kenderaan bermotor)(3)"
+N77301,Penyewaan dan pemajakan operasi kelengkapan pengangkutan air tanpa pengendali(1)
+N78200,Penyewaan dan pemajakan operasi kelengkapan pengangkutan udara tanpa pengendali(2)
+N78300,Penyewaan dan pemajakan operasi jentera dan kelengkapan pertanian dan perhutanan tanpa pengendali(3)
+N79110,Penyewaan dan pajakan operasi jentera dan kelengkapan pembinaan dan kejuruteraan awam tanpa pengendali(4)
+N79120,Sewaan dan pajakan operasi jentera dan kelengkapan pejabat tanpa pengendali (5)
+N79900,"Penyewaan dan pajakan mesin bagi jentera, kelengkapan dan barang ketara t.t.t.l.(6)"
+N80100,"Pemajakan harta intelektual dan produk seumpamanya, kecuali kerja berhakcipta(2)"
+N80200,Aktiviti agensi penempatan pekerjaan (2)
+N80300,Aktiviti agensi pekerjaan sementara(1)
+N81100,Penyediaan sumber manusia kepada perniagaan pelanggan 
+N81210,Aktiviti agensi pengembaraan(1)
+N81291,Aktiviti operator pelancongan(2)
+N81292,Khidmat penempahan dan aktiviti berkaitan(2)
+N81293,Aktiviti keselamatan persendirian(2)
+N81294,Aktiviti perkhidmatan sistem keselamatan(2)
+N81295,Aktiviti detektif dan penyiasatan(1)
+N81296,Aktiviti sokongan gabungan pelbagai kemudahan(2)
+N81297,Pembersihan am bangunan 
+N81299,Pembersihan semua jenis bangunan
+N77309,Perkhidmatan pembersihan dan penyelenggaraan kolam renang
+N77101,Pembersihan mesin perindustrian
+N77102,"Pembersihan keretapi, bas dan kapal terbang"
+N77211,Perkhidmatan pembersihan kawalan haiwan perosak yang tiada kaitan dengan pertanian
+N77212,Aktiviti disinfeksi dan penghapusan
+N77213,Pembersihan kapal tangki
+N77219,Aktiviti pembersihan bangunan dan perindustrian t.t.t.l.(3)
+N77220,Aktiviti perkhidmatan penjagaan dan penyelenggaraan landskap(2)
+N77291,Gabungan aktiviti perkhidmatan pengurusan pejabat(2)
+N77292,"Penyediaan dokumen, penyuntingan dan/atau membaca pruf"
+N77294,"Menaip, word processing atau desktop publishing(2)"
+N77295,Perkhidmatan sokongan kesetiausahaan
+N77296,Transkripsi dokumen dan perkhidmatan kesetiausahaan lain
+N77299,Penyediaan penyewaan peti surat dan perkhidmatan mel lain 
+N77302,"Fotokopi, pendua, bluprint(3)"
+N77303,"Aktiviti fotokopi, penyediaan dokumen dan lain-lain aktiviti sokongan pejabat khusus t.t.t.l."
+N77304,Aktiviti pusat panggilan(1) 
+N77305,"Mengurus, mempromosi dan/atau mengendali acara(1)"
+N77306,"Mesyuarat , insentif, konvensyen, pameran (MICE)"
+N77307,Aktiviti agensi kutipan dan biro kredit(1)
+N77400,Aktiviti pembungkusan berdasarkan kontrak atau yuran sama ada melibatkan proses automatik atau tidak
+N78100,Aktiviti perkhidmatan sokongan perniagaan t.t.t.l.
+O84111,Aktiviti perkhidmatan awam am (keseluruhan)
+O84121,Aktiviti perkhidmatan sampingan untuk kerajaan secara keseluruhannya
+O84122,Perkhidmatan pentadbiran pendidikan
+O84123,Perkhidmatan pentadbiran penjagaan kesihatan
+O84125,Perkhidmatan pentadbiran perumahan dan kerajaan tempatan
+O84126,"Perkhidmatan pentadbiran rekreasi, kebudayaan, kesenian dan sukan"
+O84129,Perkhidmatan pentadbiran hal ehwal agama
+O84131,Perkhidmatan pentadbiran kebajikan
+O84133,Perkhidmatan hal ehwal komuniti dan sosial lain(2)
+O84134,Hal ehwal perdagangan domestik dan antarabangsa
+O84135,Hal ehwal pertanian dan pembangunan luar bandar
+O84136,Hal ehwal perusahaan utama(2)
+O84138,Hal ehwal kerja awam
+O84139,Hal ehwal pengangkutan
+O84231,"Hal ehwal tenaga, telekomunikasi dan pos"
+O84232,Hal ehwal pelancongan
+O84233,Hal ehwal sumber manusia
+O84234,Peraturan dan sumbangan lain ke arah kecekapan operasi perniagaan t.t.t.l.
+O84235,Hal ehwal luar negeri(1)
+O84236,Perkhidmatan ketenteraan dan pertahanan awam
+O84220,Perkhidmatan polis
+O84239,Perkhidmatan penjara
+O84300,Perkhidmatan imigresen
+O84112,Perkhidmatan pendaftaran negara
+O84124,Perkhidmatan badan kehakiman dan perundangan(2)
+O84132,Pemadaman dan pencegahan kebakaran(1)
+O84137,Perkhidmatan berkaitan hal ehwal ketenteraman dan keselamatan awam lain(2)
+O84210,Aktiviti keselamatan sosial wajib cth. SOCSO
+P85101,Pendidikan pra-sekolah (Awam)(2)
+P85102,Pendidikan pra-sekolah (Swasta)(2)
+P85103,Pendidikan rendah (Awam) 
+P85104,Pendidikan rendah (Swasta)
+P85211,Pendidikan menengah am (Awam)(2)
+P85212,Pendidikan menengah am (Swasta)(2)
+P85221,Pendidikan menengah teknik dan vokasional di bawah tahap pendidikan tinggi (Awam)(4)
+P85222,Pendidikan menengah teknik dan vokasional di bawah tahap pendidikan tinggi (Swasta)(4)
+P85301,Pendidikan kolej dan universiti (Awam)(2)
+P85302,Pendidikan kolej dan universiti (Swasta)(3) 
+P85411,Pengajaran sukan(2)
+P85412,Pengajaran seni mempertahankan diri
+P85421,Pendidikan sukan dan rekreasi lain yang t.t.t.l.(3)
+P85429,Sekolah muzik dan tarian(4)
+P85491,Pendidikan kebudayaan lain yang t.t.t.l.(5)
+P85492,Pusat tuisyen
+P85493,Sekolah memandu
+P85499,Pengajaran agama
+P85419,Latihan komputer
+P85494,Pendidikan lain t.t.t.l.(2)
+P85500,Perkhidmatan sokongan pendidikan untuk peruntukan kepada perkhidmatan bukan pengajaran(1)
+Q86101,Aktiviti hospital
+Q86102,Perkhidmatan rumah bersalin (luar hospital)
+Q86201,Perkhidmatan perubatan am
+Q86202,Perkhidmatan perubatan khas
+Q86203,Perkhidmatan berkaitan gigi(2)
+Q86901,Pusat dialisis
+Q86902,Makmal perubatan(2)
+Q86903,Perkhidmatan fisioterapi dan terapi pekerjaan
+Q86904,Perkhidmatan akupunktur
+Q87201,Perkhidmatan ahli herba dan homeopati
+Q87209,Perkhidmatan ambulan
+Q87300,Perkhidmatan kesihatan kemanusiaan lain t.t.t.l.(3)
+Q87901,Rumah untuk orang tua dengan perawatan 
+Q87902,Rumah penjagaan
+Q87909,Paliatif atau hospis
+Q88101,Pusat pemulihan dadah
+Q88109,Aktiviti rumah penjagaan lain untuk orang terencat akal t.t.t.l.
+Q88901,Aktiviti rumah penjagaan untuk orang tua dan orang kurang upaya
+Q88902,Rumah anak yatim
+Q86905,Perkhidmatan rumah kebajikan
+Q86906,Aktiviti rumah penjagaan lain t.t.t.l.
+Q86909,Aktiviti penjagaan harian untuk orang tua atau orang dewasa yang cacat 
+Q87101,Aktiviti kerja sosial lain tanpa penginapan untuk orang tua dan orang kurang upaya
+Q87102,Perkhidmatan kaunseling(2)
+Q87103,Aktiviti penjagaan harian kanak-kanak(3)
+Q88909,Aktiviti kerja sosial lain tanpa penginapan t.t.t.l.(4)
+R93193,"Perkhidmatan penerbit teater, penyanyi kumpulan pancaragam dan hiburan orkestra(2)"
+R93199,Operasi dewan konsert dan teater serta kemudahan kesenian lain(3)
+R90001,"Aktiviti pemahat, pelukis, kartunis, pengukir, penggores"
+R90002,"Aktiviti penulis perseorangan, untuk semua subjek(1)"
+R90003,Aktiviti jurnalis bebas
+R90005,Pembaikan hasil kesenian seperti lukisan
+R90006,"Aktiviti penerbit atau pengusaha seni persembahan  secara langsung, dengan atau tanpa kemudahan"
+R90007,"Aktiviti kesenian, hiburan dan kreatif t.t.t.l."
+R90009,Aktiviti dokumentasi dan maklumat bagi semua jenis perpustakaan
+R91012,Penyimpanan foto perpustakaan dan perkhidmatan
+R91021,Operasi semua jenis muzium(3)
+R91022,Operasi tapak dan bangunan bersejarah(4)
+R91032,Operasi taman botani dan zoologi
+R92000,"Operasi rizab semula jadi, termasuk pemeliharaan hidupan liar"
+R93112,Aktiviti perjudian dan pertaruhan
+R93113,"Bola sepak, hoki, kriket, besbol, badminton, futsal, paintball"
+R93114,Litar perlumbaan untuk kenderaan bermotor (2)
+R93115,Kelab ekuestrian
+R93116,"Stadium dan kolam renang, arena luncur ais "
+R93117,Padang stadium dan balapan
+R93118,Padang golf
+R93120,Pusat boling
+R93191,Pusat kesihatan
+R93192,Penganjuran dan operasi acara sukan dalam dan luar bangunan untuk profesional atau amatur oleh organisasi dengan kemudahan sukan sendiri(3)
+R93210,"Operasi kelab sukan seperti kelab bola sepak, kelab boling, kelab renang"
+R93291,"Aktiviti penganjur atau promosi acara sukan, dengan atau tanpa kemudahan "
+R93292,Aktiviti liga sukan dan badan yang mengawal
+R93293,Aktiviti berkaitan dengan promosi acara sukan
+R93294,Aktiviti sukan lain t.t.t.l.(3)
+R93295,Aktiviti taman hiburan dan taman tema(1)
+R93296,Aktiviti taman rekreasi dan pantai(3)
+R93297,Operasi kemudahan pengangkutan rekreasi(4)
+R93299,Sewaan peralatan riadah sebagai kelengkapan untuk kemudahan rekreasi
+R90004,Operasi pesta dan pertunjukan rekreasi semula jadi
+R91011,Operasi kelab malam dan lantai tari
+R91031,"Aktiviti penganjur atau pengusaha persembahan secara langsung selain daripada acara kesenian atau sukan, dengan atau tanpa kemudahan "
+R93111,Kafe siber/pusat internet
+R93119,Aktiviti hiburan dan rekreasi lain t.t.t.l.(1)
+S95125,Aktiviti keahlian organisasi perniagaan dan majikan 
+S95126,Aktiviti keahlian organisasi profesional 
+S95211,Aktiviti kesatuan buruh
+S95212,Aktiviti organisasi keagamaan 
+S95213,Aktiviti organisasi politik
+S95221,Aktiviti keahlian organisasi lain t.t.t.l.(3)
+S95222,Pembaikan peralatan elektronik(2)  
+S95240,Pembaikan dan penyelenggaraan terminal komputer(3
+S95291,Pembaikan dan penyelenggaraan hand-held computers (PDA’s)
+S95292,Pembaikan dan penyelengaraan telefon tanpa wayar
+S95293,Pembaikan dan penyelenggaraan telefon selular
+S95294,Pembaikan dan penyelengaraan peralatan carrier modems
+S95295,Pembaikan dan penyelengaraan mesin faks 
+S95299,Pembaikan dan penyelengaraan peralatan transmisi komunikasi(4
+S96011,Pembaikan dan penyelenggaraan radio dua hala
+S96012,Pembaikan dan penyelengaraan TV komersial dan kamera video
+S96013,Pembaikan dan penyelenggaraan TV dan penerima radio
+S96014,Pembaikan dan penyelenggaraan VCR/DVD/VCD
+S96020,Pembaikan dan penyelenggaraan pemain CD 
+S96031,Pembaikan dan penyelenggaraan kamera video bagi isi rumah
+S96032,Pembaikan dan penyenggaraan kelengkapan isi rumah(2)
+S96033,Pembaikan dan penyenggaraan peralatan rumah dan halaman(3)
+S96034,Pembaikan kelengkapan kasut dan barangan kulit(1)
+S96035,Pembaikan perabut dan kelengkapan rumah(2)
+S96091,Pembaikan basikal
+S96092,Pembaikan dan pemindaan pakaian
+S96093,Pembaikan dan pemindaan barangan kemas
+S96094,"Pembaikan jam tangan, jam dan kelengkapanya"
+S96095,Pembaikan barangan sukan(4)
+S96096,Pembaikan peralatan muzikal
+S96099,Pembaikan barangan persendirian dan isi rumah t.t.t.l.(5)
+S94110,"Pencucian dan cucian kering, menggosok"
+S94120,"Mensyampo karpet dan permaidani, serta pengeringan dan cucian langsir sama ada di premis pengguna atau sebaliknya"
+S94200,"Penyediaan linen, baju seragam dan perkara berkaitan dengan cucian"
+S94910,Perkhidmatan pembekalan pengalas
+S94920,Dandanan rambut dan penjagaan kecantikan lain
+S94990,Penyediaan pengurusan mayat untuk pengebumian atau pembakaran dan perkhidmatan pengawetan mayat 
+S95111,Perkhidmatan penyediaan pengebumian atau pembakaran 
+S95112,Penyewaan ruang yang lengkap dalam bilik pengebumian
+S95121,Penyewaan dan penjualan ruang kubur
+S95122,Penyelenggaraan kubur dan makam
+S95123,"Aktiviti sauna, mandian stim, salon mengurut"
+S95113,Aktiviti astrologikal dan kerohanian 
+S95124,"Aktiviti sosial seperti perkhidmatan pengiring, temujanji dan biro perkahwinan"
+S95127,Perkhidmatan jagaan haiwan(2)
+S95214,Organisasi genealogikal 
+S95230,"Pengilat kasut, porter, valet memakir kereta"
+S95296,Operasi konsensi bagi perkhidmatan mesin duit syiling untuk kegunaan persendirian(3)
+S96097,Aktiviti perkhidmatan lain t.t.t.l.
+T97000,Aktiviti isi rumah sebagai majikan bagi personel domestik(2)
+T98200,Aktiviti mengeluarkan barangan yang tidak dapat dibezakan oleh isi rumah persendirian untuk kegunaan sendiri(2)
+T98100,Aktiviti menyediakan perkhidmatan yang tidak dapat dibezakan oleh isi rumah persendirian untuk kegunaan sendiri(2)
+U99000,Aktiviti badan dan pertubuhan luar wilayah(1)
+A01131,Growing of maize
+A01132,Growing of leguminous crops
+A01133,Growing of oil seeds
+A01134,Growing of other cereals n.e.c.  
+A01135,Growing of paddy 
+A01136,Growing of leafy or stem vegetables 
+A01137,Growing of fruits bearing vegetables
+A01138,Growing of melons
+A01140,Growing of mushrooms and truffles
+A01150,"Growing of vegetables seeds, except beet seeds"
+A01160,Growing of other vegetables
+A01191,Growing of sugar beet
+A01192,"Growing of roots, tubers, bulb or tuberous vegetables"
+A01193,Growing of sugar cane
+A01111,Growing of tobacco 
+A01112,Growing of fibre crops 
+A01113,Growing of flowers
+A01119,Growing of flower seeds
+A01120,Growing of sago (rumbia)
+A01199,Growing of other non-perennial crops n.e.c.
+A01210,Growing of grapes
+A01221,Growing of banana
+A01222,Growing of mango
+A01223,Growing of durian
+A01224,Growing of rambutan
+A01225,Growing of star fruit
+A01226,Growing of papaya
+A01227,Growing of pineapple
+A01228,Growing of pitaya (dragon fruit)
+A01229,Growing of other tropical and subtropical fruits n.e.c.
+A01231,Growing of pomelo
+A01233,Growing of lemon and limes
+A01239,Growing of tangerines and mandarin
+A01241,Growing of other citrus fruits n.e.c.
+A01251,Growing of guava
+A01252,Growing of other pome fruits and stones fruits n.e.c.
+A01253,Growing of berries
+A01259,Growing of fruit seeds
+A01262,Growing of edible nuts
+A01263,Growing of other tree and bush fruits
+A01271,Growing of oil palm (estate)
+A01272,Growing of oil palm (smallholdings)
+A01273,Growing of coconut (estate and smallholdings)
+A01279,Growing of other oleaginous fruits n.e.c.
+A01281,Growing of coffee
+A01283,Growing of tea
+A01284,Growing of cocoa
+A01289,Growing of other beverage crops n.e.c.
+A01291,Growing of pepper (piper nigrum)
+A01292,Growing of chilies and pepper (capsicum spp.)
+A01293,Growing of nutmeg
+A01295,Growing of ginger
+A01296,"Growing of plants used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes"
+A01249,Growing of other spices and aromatic crops n.e.c.
+A01261,Growing  of rubber trees (estate)
+A01269,Growing of rubber trees (smallholdings)
+A01282,Growing of trees for extraction of sap
+A01285,Growing of nipa palm
+A01464,Growing of areca
+A01491,Growing of roselle
+A01495,Growing of other perennial crops n.e.c.
+A01232,Growing of plants for planting
+A01500,Growing of plants for ornamental purposes
+A01620,"Growing of live plants for bulbs, tubers and roots; cuttings and slips; mushroom spawn"
+A01701,Operation of tree nurseries
+A02101,"Raising, breeding and production of cattle or buffaloes"
+A03115,Production of raw milk from cows or buffaloes 
+A03212,Production of bovine semen
+A03216,"Raising and breeding of horses, asses, mules or hinnes"
+A03223,Raising and breeding of camels (dromedary) and camelids
+A01299,"Raising, breeding and production of sheep and goats"
+A01301,Production of raw sheep or goat’s milk
+A01302,Production of raw wool
+A01303,"Raising, breeding and production of swine/pigs"
+A01304,"Raising, breeding and production of chicken, broiler"
+A01411,"Raising, breeding and production of ducks"
+A01412,"Raising, breeding and production of geese"
+A01413,"Raising, breeding and production of quails"
+A01420,Raising and breeding of other poultry n.e.c.
+A01430,Production of chicken eggs
+A01441,Production of duck eggs
+A01442,Production of other poultry eggs n.e.c.
+A01443,Operation of poultry hatcheries
+A01450,"Raising, breeding and production of semi-domesticated"
+A01461,"Production of fur skins, reptile or bird’s skin from ranching operation"
+A01294,"Operation of worm farms, land mollusc farms, snail farms"
+A01462,Raising of silk worms and production of silk worm cocoons
+A01463,Bee keeping and production of honey and beeswax
+A01465,Raising and breeding of pet animals
+A01466,Raising and breeding of swiflet
+A01467,Raising of diverse/other animals n.e.c.
+A01468,Mixed farming
+A01469,Agricultural activities for crops production on a fee or contract basis
+A01492,Agricultural activities for animal production on a fee or contract basis
+A01493,Preparation of crops for primary markets
+A01494,Preparation of tobacco leaves
+A01496,Preparation of cocoa beans
+A01497,Sun-drying of fruits and vegetables
+A01499,Seed processing for propagation
+A01610,Hunting and trapping on a commercial basis
+A01631,Taking of animals (dead or alive)
+A01632,"Planting, replanting, transplanting, thinning and conserving of forests and timber tracts"
+A01633,"Growing of coppice, pulpwood and fire wood"
+A01634,Operation of forest tree nurseries
+A01640,Collection and raising of wildings (peat swamp forest tree species)
+A01702,Forest plantation
+A02102,Production of round wood for forest-based manufacturing industries
+A02103,Production of round wood used in an unprocessed form
+A02104,Production of charcoal in the forest (using traditional methods)
+A02105,Rubber wood logging
+A02201,"Collection of rattan, bamboo"
+A02301,Bird’s nest collection
+A02302,Wild sago palm collection
+A02303,Gathering of non-wood forest products n.e.c.
+A02309,Carrying out part of the forestry and forest plantation operation on a fee or contract basis for forestry service activities
+A02401,Carrying out part of the forestry operation on a fee or contract basis for logging service activities
+A02402,Fishing on a commercial basis in ocean and coastal waters
+A03111,Collection of marine crustaceans and molluscs
+A03112,"Taking of aquatic animals: sea squirts, tunicates, sea urchins"
+A03113,Activities of vessels engaged both in fishing and in processing and preserving of fish
+A03114,"Gathering of other marine organisms and materials (natural pearls, sponges, coral and algae)"
+A03119,Marine fishing n.e.c.
+A03121,Fishing on a commercial basis in inland waters
+A03122,Taking of freshwater crustaceans and molluscs
+A03123,Taking of freshwater aquatic animals
+A03124,Gathering of freshwater flora and fauna
+A02202,Freshwater fishing n.e.c.
+A02203,Fish farming in sea water
+A02204,"Production of bivalve spat (oyster, mussel), lobster lings, shrimp post-larvae, fish fry and fingerlings"
+A03129,Growing of laver and other edible seaweeds
+A03211,"Culture of crustaceans, bivalves, other molluscs and other aquatic animals in sea water"
+A03213,Aquaculture activities in brackish water
+A03214,Aquaculture activities in salt water filled tanks or reservoirs
+A03215,Operation of  hatcheries (marine)
+A03217,Operation of marine worm farms for fish feed
+A03218,Marine aquaculture n.e.c.
+A03219,Fish farming in freshwater
+A03221,Shrimp farming in freshwater
+A03222,"Culture of freshwater crustaceans, bivalves, other molluscs and other aquatic animals"
+A03224,Operation of hatcheries (freshwater)
+A03225,Farming of frogs
+A03229,Freshwater aquaculture n.e.c.
+B06102,Mining of hard coal
+B06201,Mining of lignite (brown coal)
+B06205,Extraction of crude petroleum oils
+B08915,Extraction of bituminous or oil shale and tar sand
+B08917,Production of crude petroleum from bituminous shale and sand
+B08933,Processes to obtain crude oils
+B08993,Production of crude gaseous hydrocarbon (natural gas)
+B08999,Extraction of condensates
+B05100,Draining and separation of liquid hydrocarbon fractions
+B05200,Gas desulphurization
+B06101,"Mining of hydrocarbon liquids, obtain through liquefaction or pyrolysis"
+B06103,Mining of ores valued chiefly for iron content
+B06104,Beneficiation and agglomeration of iron ores
+B06202,Mining of uranium and thorium ores
+B06203,Mining of tin ores 
+B06204,Mining of copper
+B07101,Mining of bauxite (aluminium)
+B07299,Mining of ilmenite
+B08101,Mining of gold
+B08102,Mining of silver
+B08103,Mining of platinum
+B08104,Amang retreatment
+B08105,Mining of other non-ferrous metal ores n.e.c. 
+B08106,"Quarrying, rough trimming and sawing of monumental and building stone such as marble, granite (dimension stone), sandstone"
+B08107,"Quarrying, crushing and breaking of limestone"
+B08108,Mining of gypsum and anhydrite
+B08109,Mining of chalk and uncalcined dolomite
+B08911,"Extraction and dredging of industrial sand, sand for construction and gravel"
+B08912,Breaking and crushing of stone and gravel
+B08913,Quarrying of sand
+B08914,"Mining of clays, refractory clays and kaolin"
+B07102,"Quarrying, crushing and breaking of granite"
+B07210,Mining of natural phosphates
+B07291,Mining of natural potassium salts
+B07292,Mining of native sulphur
+B07293,"Extraction and preparation of pyrites and pyrrhotite, except roasting"
+B07294,Mining of natural barium sulphate and carbonate (barytes and witherite)
+B07295,"Mining of natural borates, natural magnesium sulphates (kieserite)"
+B07296,"Mining of earth colours, fluorspar and other minerals valued chiefly as a source of chemicals"
+B07297,Guano mining
+B07298,Peat digging
+B08916,Peat agglomeration
+B08918,Preparation of peat to improve quality or facilitate transport or storage
+B08921,Extraction of salt from underground
+B08922,Salt production by evaporation of sea water or other saline waters
+B08923,"Crushing, purification and refining of salt by the producer"
+B08931,Mining and quarrying of abrasive materials
+B08932,Mining and quarrying of asbestos
+B08991,Mining and quarrying of siliceous fossil meals
+B08992,Mining and quarrying of natural graphite
+B08994,Mining and quarrying of steatite (talc) 
+B08995,Mining and quarrying of gemstones
+B08996,Other mining and quarrying n.e.c.
+B09101,Oil and gas extraction service activities provided on a fee or contract basis
+B09102,Oil and gas field fire fighting services
+B09900,Support activities for other mining and quarrying
+C27900,Processing and preserving of meat and production of meat products
+C28110,Processing and preserving of poultry and poultry products
+C28120,Production of hides and skins originating from slaughterhouses
+C28130,"Operation of slaughterhouses engaged in killing, houses dressing or packing meat"
+C28140,Processing and preserving of meat n.e.c.
+C28150,"Canning of fish, crustaceans and mollusks"
+C28160,"Processing, curing and preserving of fish, crustacean and mollusks"
+C28170,Production of fish meals for human consumption or animal feed
+C28180,Production of keropok including keropok lekor
+C28191,Processing of seaweed
+C28192,Manufacture of fruits and vegetables food products
+C28199,Manufacture of fruit and vegetables juices
+C28210,Manufacture of pineapple canning 
+C28220,"Manufacture of jams, marmalades and table jellies "
+C28230,Manufacture of nuts and nut products
+C28240,Manufacture of bean curd products
+C28250,Manufacture of crude palm oil
+C28260,Manufacture of refined palm oils
+C28290,Manufacture of palm kernel oils
+C29101,Manufacture of crude and refined vegetable oil
+C29102,Manufacture of coconut oil
+C29200,Manufacture of compound cooking fats
+C29300,Manufacture of animal oils and fats
+C30110,Manufacture of ice cream and other edible ice such as sorbet 
+C30120,"Manufacture of condensed, powdered and evaporated milk"
+C30200,Manufacture of other dairy products n.e.c.
+C30300,Rice milling
+C30400,Provision of milling services
+C30910,Flour milling
+C30920,Manufacture of grain mill products n.e.c.
+C30990,Manufacture of starches and starch products
+C31001,"Manufacture of glucose, glucose syrup, maltose, inulin"
+C31002,Manufacture of sago and tapioca flour/products
+C31003,Manufacture of biscuits and cookies
+C31009,"Manufacture of bread, cakes and other bakery products"
+C32110,Manufacture of snack products
+C32120,Manufacture of frozen bakery products
+C32200,Manufacture of sugar
+C32300,Manufacture of sugar products
+C10742,Manufacture of cocoa products
+C10750,Manufacture of chocolate and chocolate products
+C10791,Manufacture of sugar confectionery
+C10792,"Manufacture of meehoon, noodles and other related products"
+C10793,Manufacture of pastas
+C10794,Manufacture of prepared meals and dishes
+C10795,Manufacture of coffee
+C10799,Manufacture of tea
+C10800,Manufacture of sauces and condiments
+C11010,Manufacture of spices and curry powder
+C11020,Manufacture of egg products
+C11030,Manufacture of other food products n.e.c.
+C11041,Manufacture of prepared animal feeds
+C11042,"Distilling, rectifying and blending of spirits"
+C12000,Manufacture of wines
+C13110,Manufacture of malt liquors and malt
+C13120,Manufacture of soft drinks
+C13131,Production of natural mineral waters and other bottled waters 
+C13132,Manufacture of tobacco products 
+C13139,Preparation and spinning of textile fibres
+C13910,Weaving of textiles
+C13921,Batik making
+C13922,"Dyeing, bleaching, printing and finishing of yarns and fabrics"
+C13930,Other finishing textile
+C13940,Manufacture of knitted and crocheted fabrics
+C16221,"Manufacture of made-up articles of any textile materials, including of knitted or crocheted fabrics"
+C16222,Manufacture of made-up furnishing articles
+C16230,Manufacture of carpets and rugs
+C16291,"Manufacture of cordage, rope, twine and netting "
+C16292,Manufacture of other textiles n.e.c.
+C17010,Manufacture of specific wearing apparel
+C17020,Manufacture of clothings
+C17091,Custom tailoring 
+C17093,Manufacture of other clothing accessories
+C17094,Manufacture of articles made of fur skins
+C17099,Manufacture of knitted and crocheted apparel
+C18110,Tanning and dressing of leather; dressing and dyeing of fur
+C18120,"Manufacture of luggage, handbags and the like, saddlery and harness"
+C18200,Manufacture of leather footwear
+C19100,Manufacture of plastic footwear
+C19201,Manufacture of rubber footwear
+C19202,Manufacture of other footwear n.e.c.
+C20111,Sawmilling and planning of wood
+C20112,Manufacture of veneer sheets and plywood
+C20113,Manufacture of particle board and fibreboard 
+C20119,Manufacture of builders' carpentry
+C20121,Manufacture of joinery wood products
+C20129,Manufacture of wooden containers
+C24312,Manufacture of wood charcoal
+C24320,"Manufacture of other products of wood, cane, articles of cork, straw and plaiting materials"
+C25111,"Manufacture of pulp, paper and paperboard"
+C25112,Manufacture of corrugated paper and paperboard and of containers of paper and paperboard
+C25113,Manufacture of envelopes and letter-card
+C25119,Manufacture of household and personal hygiene paper
+C25120,Manufacture of gummed or adhesive paper in strips or rolls and labels and wall paper
+C25200,"Manufacture of effigies, funeral paper goods, joss papers  "
+C25910,Manufacture of other articles of paper and paperboard n.e.c. 
+C25920,Printing
+C25930,Service activities related to printing
+C25991,Reproduction of recorded media
+C25993,Manufacture of coke oven products
+C25994,Manufacture of refined petroleum products
+C25999,Manufacture of bio-diesel products
+C26101,Manufacture of liquefied or compressed inorganic industrial or medical gases
+C26102,Manufacture of basic organic chemicals
+C26103,Manufacture of inorganic compounds
+C26105,Manufacture of other basic chemicals n.e.c.
+C26109,Manufacture of fertilizers
+C26201,Manufacture of associated nitrogen products
+C26202,Manufacture of plastic in primary forms
+C26300,"Manufacture of synthetic rubber in primary forms: synthetic rubber, factice"
+C26400,Manufacture of mixtures of synthetic rubber and natural rubber or rubber - like gums
+C26511,Manufacture of pesticides and other agrochemical products
+C26512,"Manufacture of paints, varnishes and similar coatings ink and mastics"
+C26520,Manufacture of printing ink
+C26600,"Manufacture of soap and detergents, cleaning and polishing preparations"
+C26701,Manufacture of perfumes and toilet preparations
+C26702,"Manufacture of photographic plates, films, sensitized paper and other sensitized unexposed materials"
+C26800,Manufacture of writing and drawing ink
+C27101,Manufacture of other chemical products n.e.c.
+C27102,Manufacture of man-made fibres
+C27200,Manufacture of medicinal active substances to be used for their pharmacological properties in the manufacture of medicaments
+C27310,Processing of blood
+C27320,Manufacture of medicaments
+C27330,Manufacture of chemical contraceptive products
+C27400,Manufacture of medical diagnostic preparation
+C26104,Manufacture of radioactive in-vivo diagnostic substances
+C27500,Manufacture of biotech pharmaceuticals
+C20131,"Manufacture of other pharmaceuticals, medicinal chemical and botanical products n.e.c."
+C20132,Manufacture of rubber tyres for vehicles
+C20133,Manufacture of interchangeable tyre treads and retreading rubber tyres
+C20210,"Manufacture of other products of natural or synthetic rubber, unvulcanized, vulcanized or hardened"
+C20221,Manufacture of rubber gloves
+C20231,Rubber remilling and latex processing
+C20232,Manufacture of other rubber products n.e.c
+C20292,Manufacture of semi-manufactures of plastic products
+C20299,Manufacture of finished plastic products
+C20300,Manufacture of plastic articles for the packing of goods
+C21001,Manufacture of builders' plastics ware
+C21003,"Manufacture of plastic tableware, kitchenware and toilet articles"
+C21004,Manufacture of diverse plastic products n.e.c.
+C21006,"Manufacture of flat glass, including wired, coloured or tinted flat glass"
+C21007,"Manufacture of laboratory, hygienic or pharmaceutical glassware "
+C22111,Manufacture of other glass products n.e.c.
+C22112,Manufacture of refractory mortars and concretes
+C22191,Manufacture of refractory ceramic goods
+C22192,Manufacture of non-refractory ceramic
+C22193,Manufacture of other clay building materials
+C22199,Manufacture of other porcelain and ceramic products
+C22201,Manufacture of hydraulic cement
+C22202,Manufacture of lime and plaster
+C22203,Manufacture of ready-mix and dry-mix concrete and mortars
+C22204,"Manufacture of precast concrete, cement or artificial stone articles for use in construction"
+C22205,"Manufacture of prefabricated structural components for building or civil engineering of cement, concrete or artificial stone"
+C22209,"Manufacture of other articles of concrete, cement and plaster n.e.c."
+C23101,"Cutting, shaping and finishing of stone"
+C23102,Manufacture of other non-metallic mineral products n.e.c.
+C21009,"Production of pig iron and spiegeleisen in pigs, blocks or other primary forms"
+C23911,Production of bars and rods of stainless steel or other alloy steel
+C23912,"Manufacture of seamless tubes, by hot rolling, hot extrusion or hot drawing, or by cold drawing or cold rolling"
+C23921,Manufacture of steel tube fittings
+C23929,Manufacture of other basic iron and steel products n.e.c.
+C23941,Tin smelting
+C23942,Production of aluminium from alumina
+C23951,Manufacture of other basic precious and other non-ferrous metals n.e.c.
+C23952,Casting of iron
+C23953,Casting of steel
+C23959,Casting of non-ferrous metals
+C23960,Manufacture of industrial frameworks in metal
+C23990,Manufacture of prefabricated buildings mainly of metal
+C24101,"Manufacture of metal doors, windows and their frames, shutters and gates"
+C24102,Manufacture of other structural metal products
+C24103,"Manufacture of tanks, reservoirs and containers of metal"
+C24104,"Manufacture of steam generators, except central heating hot water boilers"
+C24109,Manufacture of weapons and ammunition
+C24201,"Forging, pressing, stamping and roll-forming of metal; powder metallurgy"
+C24202,Treatment and coating of metals; machining
+C24209,"Manufacture of cutlery, hand tools and general hardware"
+C24311,"Manufacture of tins and cans for food products, collapsible tubes and boxes"
+C32400,"Manufacture of metal cable, plaited bands and similar articles"
+C32500,"Manufacture of bolts, screws, nuts and similar threaded products"
+C32901,Manufacture of metal household articles 
+C32909,Manufacture of any other fabricated metal products n.e.c.
+C33110,"Manufacture of diodes, transistors and similar semiconductor devices"
+C33120,Manufacture electronic integrated circuits micro assemblies
+C33131,Manufacture of electrical capacitors and resistors
+C33132,Manufacture of printed circuit boards
+C33133,Manufacture of display components
+C33140,Manufacture of other components for electronic applications
+C33150,Manufacture of computers
+C33190,Manufacture of peripheral equipment
+C33200,Manufacture of communication equipment
+C13990,Manufacture of consumer electronics
+C14101,"Manufacture of measuring, testing, navigating and control equipment"
+C14102,Manufacture of industrial process control equipment manufacturing
+C14103,Manufacture of watches and clocks and parts
+C14109,"Manufacture of irradiation, electro medical and electrotherapeutic equipment"
+C14200,Manufacture of optical instruments and equipment
+C14300,Manufacture of photographic equipment
+C15110,Manufacture of magnetic and optical recording media
+C15120,"Manufacture of electric motors, generators and transformers"
+C15201,Manufacture of electricity distribution and control apparatus
+C15202,Manufacture of batteries and accumulators
+C15203,Manufacture of fibre optic cables
+C15209,Manufacture of other electronic and electric wires and cables
+C16100,Manufacture of current-carrying and non current-carrying wiring devices for electrical circuits regardless of material
+C16211,Manufacture of electric lighting equipment
+C16212,Manufacture of domestic appliances
+C10619,"Manufacture of miscellaneous electrical equipment other than motors, generators and transformers, batteries and accumulators, wires and wiring devices, lighting equipment or domestic appliances"
+C10621,"Manufacture of engines and turbines, except aircraft, vehicle and cycle engines"
+C10622,Manufacture of fluid power equipment
+C10711,"Manufacture of other pumps, compressors, taps and valves"
+C10712,"Manufacture of bearings, gears, gearing and driving elements"
+C10713,"Manufacture of ovens, furnaces and furnace burners"
+C10714,Manufacture of lifting and handling equipment
+C10721,Manufacture of office machinery and equipment (except computers and peripheral equipment)
+C10731,Manufacture of power-driven hand tools with self-contained electric or non-electric motor or pneumatic drives
+C10732,Manufacture of refrigerating or freezing industrial equipment
+C10733,"Manufacture of air-conditioning machines, including for motor vehicles"
+C10741,Manufacture of other general-purpose machinery n.e.c.
+C10405,Manufacture of agricultural and forestry machinery
+C10502,Manufacture of metal-forming machinery and machine tools
+C10623,Manufacture of machinery for metallurgy
+C20291,"Manufacture of machinery for mining, quarrying and construction"
+C21002,"Manufacture of machinery for food, beverage and tobacco processing"
+C21005,"Manufacture of machinery for textile, apparel and leather production"
+C23109,Manufacture of other special-purpose machinery n.e.c.
+C23930,Manufacture of passenger cars
+C25130,Manufacture of commercial vehicles
+C25992,Manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers and semi-trailers
+C10722,Manufacture of parts and accessories for motor vehicles
+C17092,Building of ships and floating structures
+C20222,Building of pleasure and sporting boats
+C10102,Manufacture of railway locomotives and rolling stock
+C10103,Manufacture of air and spacecraft and related machinery
+C10104,Manufacture of military fighting vehicles
+C10109,Manufacture of motorcycles
+C10201,Manufacture of bicycles and invalid carriages
+C10202,Manufacture of other transport equipments n.e.c..
+C10203,Manufacture of wooden and cane furniture
+C10204,Manufacture of metal furniture
+C10205,Manufacture of mattress
+C10301,"Manufacture of other furniture, except of stone, concrete or ceramic"
+C10101,Manufacture of jewellery and related articles 
+C10302,Manufacture of imitation jewellery and related articles
+C10303,Manufacture of musical instruments
+C10304,Manufacture of sports goods
+C10305,Manufacture of games and toys 
+C10306,Manufacture of medical and dental instrument and supplies 
+C10401,Manufacture of stationery
+C10402,Other manufacturing n.e.c.
+C10403,Repair of fabricated metal products
+C10404,Repair and maintenance of industrial machinery and equipment
+C10406,"Repair and maintenance of the measuring, testing, navigating and control equipment"
+C10407,"Repair and maintenance of irradiation, electro medical and electrotherapeutic equipment"
+C10501,Repair of optical instruments and photographic equipment
+C10509,Repair and maintenance of electrical equipment except domestic appliances
+C10611,Repair and maintenance of transport equipment except motorcycles and bicycles
+C10612,Repair and maintenance of other equipment n.e.c.
+C10613,Installation of industrial machinery and equipment
+D35101,Operation of generation facilities that produce electric energy
+D35102,"Operation of transmission, distribution and sales of electricity    "
+D35201,"Manufacture of gaseous fuels with a specified calorific value, by purification, blending and other processes from gases of various types including natural gas"
+D35203,"Transportation, distribution and supply of gaseous fuels of all kinds through a system of mains"
+D35301,Sale of gas to the user through mains
+D35303,"Production, collection and distribution of steam and hot water for heating, power and other purposes"
+D35202,"Production and distribution of cooled air, chilled water for cooling purposes"
+D35302,"Production of ice, including ice for food and non-food (e.g. cooling) purposes"
+E38303,Purification and distribution of water for water supply purposes
+E38304,Desalting of sea or ground water to produce water as the principal product of interest
+E38309,Sewerage and similar activities
+E39000,Collection of non-hazardous solid waste (i.e. garbage) within a local area
+E36001,Collection of recyclable materials
+E37000,Collection of refuse in litter-bins in public places
+E38111,Collection of construction and demolition waste
+E38112,Operation of waste transfer stations for non-hazardous waste
+E38114,Collection of hazardous waste
+E38115,Operation of waste transfer stations for hazardous waste
+E38121,Treatment and disposal of non-hazardous waste
+E38210,Treatment and disposal of hazardous
+E38220,Mechanical crushing of metal waste
+E38301,"Dismantling of automobiles, computers, televisions and other equipment for material recover"
+E36002,Reclaiming of rubber such as used tires to produce secondary raw material
+E38113,Reuse of rubber products
+E38122,Materials recovery n.e.c.
+E38302,Remediation activities and other waste management services
+F42104,Residential buildings
+F42105,Non-residential buildings
+F42106,Assembly and erection of prefabricated constructions on the site
+F42202,Construction of buildings n.e.c.
+F42203,"Construction of motorways, streets, roads, other vehicular and pedestrian ways"
+F42204,"Surface work on streets, roads, highways, bridges or tunnels"
+F42205,"Construction of bridges, including those for elevated highways"
+F42206,Construction of tunnels
+F42207,Construction of railways and subways
+F42209,Construction of airfield/airports runways
+F42901,Construction of roads and railways n.e.c.
+F42902,"Long-distance pipelines, communication and power lines"
+F42903,"Urban pipelines, urban communication and power lines; ancillary urban works"
+F42904,Water main and line construction
+F42905,Reservoirs
+F42909,Construction of irrigation systems (canals)
+F43110,Construction of sewer systems (including repair) and sewage disposal plants
+F43121,Construction of power plants
+F43122,Construction of utility projects n.e.c.
+F43125,Construction of refineries
+F43126,"Construction of waterways, harbour and river works, pleasure ports (marinas), locks"
+F43129,Construction of dams and dykes
+F43211,Dredging of waterways
+F43212,Outdoor sports facilities
+F42109,Land subdivision with land improvement
+F42201,Construction of other engineering projects n.e.c.
+F43214,Demolition or wrecking of buildings and other structures
+F43215,Clearing of building sites
+F43216,Earth moving
+F43219,"Drilling, boring and core sampling for construction, geophysical, geological or similar purposes"
+F43222,Site preparation for mining
+F43223,Drainage of agricultural or forestry land
+F43224,Land reclamation work
+F43226,Other site preparation activities n.e.c.
+F43227,Electrical wiring and fittings 
+F43228,Telecommunications wiring
+F43229,Computer network and cable television wiring
+F43292,Satellite dishes
+F43293,Lighting systems
+F43295,Security systems
+F43299,Electrical installation n.e.c.
+F43303,"Installation of heating systems (electric, gas and oil)"
+F43304,"Installation of furnaces, cooling towers"
+F43305,Installation of non-electric solar energy collectors
+F43306,Installation of plumbing and sanitary equipment
+F43309,"Installation of ventilation, refrigeration or air-conditioning equipment and ducts"
+F43901,Installation of gas fittings
+F43902,Installation of fire and lawn sprinkler systems
+F43903,Steam piping
+F43904,"Plumbing, heat and air-conditioning installation n.e.c."
+F43905,"Installation of elevators, escalators in buildings or other construction projects"
+F43906,Installation of automated and revolving doors in buildings or other construction projects
+F43907,Installation of lighting conductors in buildings or other construction projects
+F43909,Installation vacuum cleaning systems in buildings or other construction projects
+F41003,"Installation thermal, sound or vibration insulation in buildings or other construction projects"
+F41009,Other construction installation n.e.c.
+F42101,"Installation of doors, windows, door and window frames of wood or other materials, fitted kitchens, staircases, shop fittings and furniture"
+F42102,"Laying, tiling, hanging or fitting in buildings or other construction projects of various types of materials"
+F42103,Interior and exterior painting of buildings
+F43123,Painting of civil engineering structures
+F43213,"Installation of glass, mirrors"
+F43221,Interior completion
+F43225,Cleaning of new buildings after construction
+F43291,Other building completion and finishing work n.e.c.
+F43294,"Construction of foundations, including pile driving"
+F43301,Erection of non-self-manufactured steel elements
+F43307,Scaffolds and work platform erecting and dismantling
+F41001,Bricklaying and stone setting
+F41002,Construction of outdoor swimming pools
+F42906,"Steam cleaning, sand blasting and similar activities for building exteriors"
+F43124,Renting of construction machinery and equipment with operator (e.g. cranes)
+F43302,"Other specialized construction activities, n.e.c."
+G45101,Wholesale and retail of new motor vehicles 
+G45102,Wholesale and retail of used motor vehicles 
+G45103,"Sale of industrial, commercial and agriculture vehicles – new "
+G45104,"Sale of industrial, commercial and agriculture vehicles – used "
+G45105,Sale by commission agents
+G45106,Car auctions
+G45109,Sale of other motor vehicles n.e.c.
+G45201,Maintenance and repair of motor vehicles
+G45202,Spraying and painting 
+G45203,Washing and polishing (car wash)
+G45205,Repair of motor vehicle seats
+G45401,Installation of parts and accessories not as part of the manufacturing process
+G45402,"Wholesale and retail sale of all kinds of parts, components, supplies, tools and accessories for motor vehicles"
+G45403,Wholesale and retail sale of motorcycles
+G46100,Wholesale and retail sale of parts and accessories for motorcycles
+G46201,Repair and maintenance of motorcycles
+G46202,Wholesale on a fee or contract basis
+G46203,Wholesale of rubber
+G46204,Wholesale of palm oil
+G46205,Wholesale of lumber and timber
+G46311,Wholesale of flowers and plants
+G46312,Wholesale of livestock
+G46313,Wholesale of agricultural raw material and live animal n.e.c.
+G46314,"Wholesale of meat, poultry and eggs "
+G46321,Wholesale of fish and other seafood
+G46322,Wholesale of fruits
+G46323,Wholesale of vegetables
+G46324,"Wholesale of meat, fish, fruits and vegetables n.e.c."
+G46326,"Wholesale of rice, other grains, flour and sugars"
+G46327,Wholesale of dairy products
+G46329,Wholesale of confectionary
+G46412,"Wholesale of  biscuits, cakes, breads and other bakery products"
+G46413,"Wholesale of coffee, tea, cocoa and other beverages"
+G46414,"Wholesale of beer, wine and spirits"
+G46416,"Wholesale of tobacco, cigar, cigarettes"
+G46417,Wholesale of other foodstuffs
+G47611,Wholesale of yarn and fabrics
+G47612,"Wholesale of household linen, towels, blankets"
+G47620,Wholesale of clothing
+G47631,Wholesale of clothing accessories 
+G47632,Wholesale of fur articles
+G47633,Wholesale of footwear
+G47634,Wholesale of haberdashery
+G47635,"Wholesale of textiles, clothing n.e.c."
+G47640,Wholesale of pharmaceutical and medical goods
+G47711,"Wholesale of perfumeries, cosmetics, soap and toiletries"
+G47712,Wholesale of bicycles and their parts and accessories
+G47713,Wholesale of photographic and optical goods
+G47721,Wholesale of leather goods and travel accessories
+G47731,"Wholesale of musical instruments, games and toys, sports goods"
+G47732,Wholesale of handicrafts and artificial flowers
+G47733,Wholesale of cut flowers and plants
+G47734,Wholesale of watches and clocks 
+G47735,Wholesale of jewellery
+G47737,Wholesale of household furniture
+G47738,Wholesale of household appliances
+G47597,Wholesale of lighting equipment
+G47598,"Wholesale of household utensils and cutlery, crockery, glassware, chinaware and pottery"
+G47741,"Wholesale of woodenware, wickerwork and cork ware"
+G47742,Wholesale of electrical and electronics goods
+G47743,"Wholesale of stationery, books, magazines and newspapers"
+G47744,Wholesale of other household goods n.e.c.
+G47749,"Wholesale of computer hardware, software and peripherals "
+G46699,"Wholesale of telephone and telecommunications equipment, cell phones, pagers"
+G46901,Wholesale of electrical and electronic component and wiring accessories
+G46902,"Wholesale of agricultural machinery, equipment and supplies"
+G46909,Wholesale of lawn mowers however operated
+G47111,"Wholesale of office machinery and business equipment, except computers and computer peripheral equipment"
+G47112,Wholesale of office furniture
+G47113,Wholesale of computer-controlled machines tools
+G47114,"Wholesale of industrial machinery, equipment and supplies"
+G47191,Wholesale of construction and civil engineering machinery and equipment
+G47192,"Wholesale of lift escalators, air-conditioning, security and fire fighting equipment"
+G47193,"Wholesale of other machinery for use in industry, trade and navigation and other services n.e.c."
+G47199,"Wholesale of petrol, diesel, lubricants"
+G47211,Wholesale of liquefied petroleum gas
+G47213,"Wholesale of other solid, liquid and gaseous fuels and related products n.e.c."
+G47214,Wholesale of ferrous and non-ferrous metal ores and metals
+G47215,Wholesale of ferrous and non-ferrous semi-finished metal ores and products n.e.c.
+G47216,"Wholesale of logs, sawn timber, plywood, veneer and related products"
+G47219,Wholesale of paints and varnish
+G47221,Wholesale of construction materials
+G47222,Wholesale of fittings and fixtures
+G47300,Wholesale of hot water heaters
+G47411,Wholesale of sanitary installation and equipment
+G47412,Wholesale of tools  
+G47420,"Wholesale of other construction materials, hardware, plumbing and heating equipment and supplies n.e.c."
+G47520,Wholesale of industrial chemicals
+G47531,Wholesale of fertilizers and agrochemical products
+G47532,Wholesale of plastic materials in primary forms
+G47533,Wholesale of rubber scrap
+G47591,Wholesale of textile fibres
+G47592,"Wholesale of paper in bulk, packaging materials"
+G47594,Wholesale of precious stones
+G47595,Wholesale of metal and non-metal waste and scrap and materials for recycling
+G47596,"Dismantling of automobiles, computer, televisions and other equipment to obtain and re-sell usable parts"
+G46419,"Wholesale of aquarium fishes, pet birds and animals"
+G46421,Wholesale of animal/pet food
+G46422,Wholesale of a variety of goods without any particular specialization n.e.c.
+G46431,Provision stores
+G46432,Supermarket
+G46433,Mini market
+G46434,Convenience stores
+G46441,Department stores
+G46442,Department stores and supermarket
+G46443,Hypermarket
+G46444,News agent and miscellaneous goods store
+G46491,Other retail sale in non-specialized stores n.e.c.
+G46492,"Retail sale of rice, flour, other grains and sugars "
+G46493,Retail sale of fresh or preserved vegetables and fruits
+G46494,Retail sale of dairy products and eggs
+G46495,Retail sale of meat and meat products (including poultry) 
+G46496,"Retail sale of fish, other seafood and products thereof"
+G46497,Retail sale of bakery products and sugar confectionery
+G46499,"Retail sale of mee, kuey teow, mee hoon, wantan skins and other food products made from flour or soya"
+G46521,Retail sale of other food products n.e.c.
+G46522,"Retail sale of beer, wine and spirits"
+G46531,"Retail sale of tea, coffee, soft drinks, mineral water and other beverages"
+G46532,Retail sale of tobacco products in specialized store 
+G46592,Retail sale of automotive fuel in specialized store
+G46593,"Retail sale of computers, computer equipment and supplies"
+G46594,Retail sale of video game consoles and non-customized software 
+G46595,Retail sale of telecommunication equipment
+G46599,Retail sale of audio and video equipment in specialized store
+G46611,Retail sale of textiles in specialized stores
+G46612,"Retail sale of construction materials, hardware, paints and glass"
+G46621,Retail sale of carpets and rugs
+G46622,Retail sale of curtains and net curtains
+G46631,Retail sale of wallpaper and floor coverings
+G46632,Retail sale of household furniture
+G46634,Retail sale of articles for lighting
+G46635,"Retail sale of household utensils and cutlery, crockery, glassware, chinaware and pottery"
+G46636,"Retail sale of wood, cork goods and wickerwork goods"
+G46637,Retail sale of household appliances
+G46691,Retail sale of musical instruments and scores
+G46692,Retail sale of security systems
+G46693,Retail sale of household articles and equipment n.e.c.
+G46694,Retail sale of office supplies and equipment
+G46695,"Retail sale of books, newspapers and stationary "
+G46696,"Retail sale of musical records, audio tapes, compact discs , cassettes, video tapes, VCDs and DVDs, blank tapes and discs"
+G46697,Retail sale of sports goods and equipments
+G46698,Retail sale of fishing equipment 
+G47820,Retail sale of camping goods
+G47891,Retail sale of boats and equipments
+G47892,Retail sale of bicycles and related parts and accessories
+G47893,"Retail sale of games and toys, made of all materials"
+G47895,"Retail sale of articles of clothing, articles of fur and clothing accessories"
+G47911,Retail sale of footwear
+G47912,"Retail sale of leather goods, accessories of leather and leather substitutes"
+G47914,"Stores specialized in retail sale of pharmaceuticals, medical and orthopaedic goods"
+G47991,"Stores specialized in retail sale of perfumery, cosmetic and toilet articles"
+G47999,Retail sale of photographic and precision equipment  
+G45300,Retail sale of watches and clocks 
+G46209,Retail sale of jewellery
+G46319,"Retail sale of flowers, plants, seeds, fertilizers"
+G46325,"Retail sale of souvenirs, craftwork and religious articles"
+G46411,"Retail sale of household fuel oil, cooking gas, coal and fuel wood"
+G46415,Retail sale of spectacles and other optical goods
+G46510,"Retail sale of aquarium fishes, pet animals and pet food"
+G46591,Other retail sale of new goods in specialized stores n.e.c.
+G46633,Retail sale of second-hand books
+G46639,Retail sale of second-hand electrical and electronic goods
+G47194,Retail sale of antiques
+G47212,Activities of auctioning houses (retail)
+G47217,Retail sale of second-hand goods n.e.c.
+G47230,"Retail sale of food, beverages and tobacco products via stalls or markets "
+G47413,"Retail sale of textiles, clothing and footwear via stalls or markets"
+G47510,Retail sale of carpets and rugs via stalls or markets
+G47593,Retail sale of books via stalls or markets
+G47722,Retail sale of games and toys via stalls or markets
+G47736,Retail sale of household appliances and consumer electronics via stall or markets
+G47739,Retail sale of music and video recordings via stall or markets
+G47810,Retail sale of any kind of product by mail order
+G47894,Retail sale of any kind of product over the Internet
+G47913,"Direct sale via television, radio and telephone"
+G47992,Internet retail auctions
+G46596,Retail sale of any kind of product by direct sales or door-to-door sales persons
+G46619,Retail sale of any kind of product through vending machines
+G45204,"Other retail sale not in stores, stalls or markets n.e.c."
+H49212,Passenger transport by inter-urban railways 
+H49221,"Freight transport by inter-urban, suburban and urban railways"
+H49222,City bus services
+H49223,Urban and suburban railway passenger transport service
+H49224,Express bus services 
+H49225,Employees bus services
+H49229,School bus services
+H49230,Taxi operation and limousine services
+H49300,Rental of cars with driver
+H50111,Other passenger land transport n.e.c.
+H50112,Freight transport by road
+H50113,Transport via pipeline
+H50121,"Operation of excursion, cruise or sightseeing boats"
+H50122,"Operation of ferries, water taxis"
+H50211,Rental of pleasure boats with crew for sea and coastal water transport (e.g. for fishing cruises)
+H50212,"Transport of freight over seas and coastal waters, whether scheduled or not"
+H50220,"Transport by towing or pushing of barges, oil rigs"
+H51101,"Transport of passenger via rivers, canals, lakes and other inland waterways, including inside harbours and ports"
+H51103,Rental of pleasure boats with crew for inland water transport
+H51201,"Transport of freight via rivers, canals, lakes and other inland waterways, including inside harbours and ports"
+H51203,Transport of passengers by air over regular routes and on regular schedules
+H52100,Non-scheduled transport of passenger by air
+H52211,Renting of air-transport equipment with operator for the purpose of passenger transportation
+H52213,Transport freight by air over regular routes and on regular schedules
+H52214,Non-scheduled transport of freight by air
+H52219,Renting of air-transport equipment with operator for the purpose of freight transportation
+H52222,Warehousing and storage services
+H52229,Operation of terminal facilities
+H52231,Towing and road side assistance
+H49211,Operation of parking facilities for motor vehicles (parking lots)
+H52233,"Highway, bridge and tunnel operation services"
+H52234,Other service activities incidental to land transportation n.e.c.
+H52241,"Port, harbours and piers operation services"
+H52249,Vessel salvage and refloating services
+H52291,Other service activities incidental to water transportation n.e.c.
+H49110,Operation of terminal facilities
+H53100,Airport and air-traffic-control activities
+H53200,Ground service activities on airfields
+H52292,Fire fighting and fire-prevention services at airports
+H52299,Other service activities incidental to air transportation n.e.c.
+H49120,Stevedoring services
+H51102,Other cargo handling activities n.e.c.
+H51202,Forwarding of freight 
+H52212,Brokerage for ship and aircraft space
+H52221,Other transportation support activities n.e.c.
+H52232,National postal services
+H52239,Courier activities other than national post activities
+I55101,Hotels and resort hotels
+I55102,Motels
+I55103,Apartment hotels
+I55104,Chalets
+I55105,Rest house/guest house
+I55106,Bed and breakfast units
+I55107,Hostels
+I55108,Home stay
+I55109,Other short term accommodation activities n.e.c.
+I55200,Camping grounds/sites and recreational vehicle parks
+I55900,Other accommodation
+I56101,Restaurants and restaurant cum night clubs
+I56102,Cafeterias/canteens
+I56103,Fast-food restaurants
+I56104,Ice cream truck vendors and parlours
+I56105,Mobile food carts
+I56106,Food stalls/hawkers
+I56107,"Food or beverage, food and beverage preparation in market stalls/hawkers"
+I56210,Event/food caterers
+I56290,Other food service activities
+I56301,"Pubs, bars, discotheques, coffee houses, cocktail lounges and karaoke "
+I56302,Coffee shops
+I56303,Drink stalls/hawkers
+I56304,Mobile beverage
+I56309,Others drinking places n.e.c.
+J60200,"Publishing of books, brochures and other publications"
+J61101,"Publishing of mailing lists, telephone book, other directories"
+J61102,"Publishing of newspapers, journals, magazines and periodicals in print or electronic form"
+J61201,"Publishing of catalogues, photos, engraving and postcards, greeting cards, forms, posters, reproduction of works of art, advertising material and other printed matter n.e.c."
+J61202,Business and other applications
+J61300,Computer games for all platforms
+J61901,Operating systems
+J61902,"Motion picture, video and television programme production activities"
+J61903,"Motion picture, video and television programme post-production activities"
+J61905,"Motion picture, video and television programme distribution activities"
+J61909,Motion picture projection activities
+J62010,Sound recording and music publishing activities
+J62021,Radio broadcasting
+J62022,Television programming and broadcasting activities
+J58110,Wired telecommunications services 
+J58120,Internet access providers by the operator of the wired infrastructure
+J58130,Wireless telecommunications services 
+J58190,Internet access providers by the operator of the wireless infrastructure
+J58201,Satellite telecommunications services
+J58202,Provision of Internet access over networks between the client and the ISP not owned or controlled by the ISP
+J58203,Provision of telecommunications services over existing telecom connection
+J59110,Telecommunications resellers 
+J59120,Provision of telecommunications services over existing telecom connections VOIP (Voice Over Internet Protocol) provision
+J59130,"Provision of specialized telecommunications applications (e.g. satellite tracking, communications telemetry and radar station operations)"
+J59140,Other telecommunications activities n.e.c.
+J59200,Computer programming activities
+J60100,Computer consultancy
+J61904,Computer facilities management activities
+J62091,Information Communication Technology (ICT) system security
+J62099,Other information technology service activities n.e.c.
+J63111,"Activities of providing infrastructure for hosting, data processing services and related activities"
+J63112,Data processing activities
+J63120,Web portals
+J63910,"News syndicate and news agency activities furnishing news, pictures and features to the media (e.g. Bernama)"
+J63990,Other information service activities n.e.c.
+K64110,Central banking
+K64191,Commercial Banks
+K64192,Islamic Banks 
+K64193,Offshore Banks
+K64194,Investment Banks
+K64195,Development financial institutions (with deposits taking functions)
+K64199,Other monetary intermediation (with deposits taking functions) n.e.c.
+K64200,Activities of holding companies
+K64923,Venture capital companies
+K64991,Unit trust fund excludes REITs
+K64999,Property unit trust (REITs)
+K66302,Other administration of trusts accounts
+K64301,"Trusts, funds and similar financial entities n.e.c."
+K64302,Financial leasing activities
+K64303,Development financial institutions (without deposits taking functions)
+K64304,Credit card services
+K64309,Licensed money lending activities
+K64910,Pawnshops and pawnbrokers includes Ar-Rahnu
+K64921,Co-operative with credits functions
+K64922,Other credit granting n.e.c.
+K64924,Factoring companies
+K64925,Representative office of foreign banks
+K64929,Nominee companies
+K64992,"Other financial service activities, except insurance/takaful and pension funding n.e.c."
+K64993,Life insurance
+K65111,Family takaful
+K65112,General insurance
+K65121,General takaful
+K65122,Composite insurance
+K65123,Offshore insurance 
+K65124,Offshore takaful
+K65125,Life reinsurance
+K65201,Family retakaful
+K65202,General reinsurance
+K65203,General retakaful
+K65204,Composite retakaful
+K65205,Offshore reinsurance
+K65206,Offshore retakaful
+K65207,Pension funding
+K65301,Provident funding
+K65302,Stock exchanges
+K66111,Exchanges for commodity contracts 
+K66112,Securities exchange
+K66113,Exchanges for commodity futures contracts
+K66114,Administration of financial markets n.e.c.
+K66119,"Stock, share and bond brokers"
+K66121,Commodity brokers and dealers
+K66122,Gold bullion dealers
+K66123,Foreign exchange broker and dealers (Bureaux de change)
+K66124,Money-changing services
+K66125,Other financial and commodity futures brokers and dealers
+K66129,Investment advisory services
+K66191,Financial consultancy services
+K66192,Activities auxiliary to finance n.e.c.
+K66199,Insurance adjusting service
+K66211,Takaful adjusting service 
+K66212,Insurance agents 
+K66221,Takaful agents
+K66222,Insurance brokers
+K66223,Takaful brokers
+K66224,"Other activities auxiliary to insurance, takaful and pension funding"
+K66290,Management of pension funds
+K66301,Assets/portfolio management
+K66303,Unit trust management companies
+L68101,"Buying, selling, renting and operating of self-owned or leased real estate – residential buildings"
+L68104,"Buying, selling, renting and operating of self-owned or leased real estate – non-residential buildings"
+L68102,"Buying, selling, renting and operating of self-owned or leased real estate – land"
+L68103,"Development of building projects for own operation, i.e. for renting of space in these buildings"
+L68109,Real estate activities with own or leased property n.e.c.
+L68201,"Activities of real estate agents and brokers for buying, selling and renting of real estate"
+L68202,Management of real estate on a fee or contract basis
+L68203,Appraisal services for real estate
+L68209,Real estate activities on a fee or contract basis n.e.c.
+M69100,Legal activities
+M69200,"Accounting, bookkeeping and auditing activities; tax consultancy"
+M70100,Activities of head offices 
+M70201,Business management consultancy services 
+M70202,Human resource consultancy services
+M70203,Consultancy services in public relation and communications
+M70209,Other management consultancy activities n.e.c
+M71101,Architectural services
+M71102,Engineering services
+M71103,Land surveying services
+M71109,Other architectural and engineering activities and related technical consultancy n.e.c.
+M71200,Technical testing and analysis
+M72101,Research and development on natural sciences
+M72102,Research and development on engineering and technology 
+M72103,Research and development on medical sciences
+M72104,Research and development on biotechnology
+M72105,Research and development on agricultural sciences
+M72106,Research and development on Information Communication Technology (ICT)
+M72109,Research and development on other natural science and engineering n.e.c.
+M72201,Research and development on social sciences
+M72202,Research and development on humanities
+M72209,Research and development of other social sciences and humanities n.e.c.
+M73100,Advertising
+M73200,Market research and public opinion polling
+M74101,Activities of interior decorators
+M74102,Services of graphic designers
+M74103,Fashion design services
+M74109,Specialized design activities n.e.c.
+M74200,Photographic activities
+M74901,Translation and interpretation activities
+M74902,Business brokerage activities
+M74903,Security consulting
+M74904,Activities of quantity surveyors
+M74905,"Activities of consultants other than architecture, engineering and management consultants"
+M74909,"Any other professional, scientific and technical activities n.e.c."
+M75000,Veterinary activities
+N82110,Renting and operational leasing of passenger cars (without driver)
+N82191,"Renting and operational leasing of trucks, utility trailers and recreational vehicles "
+N82192,"Renting and leasing of pleasure boats, canoes, sailboats"
+N82193,Renting and leasing of bicycles
+N82194,Renting and leasing of beach chairs and umbrellas
+N82195,Renting and leasing of other sports equipment n.e.c.
+N81300,"Renting of video tapes, records, CDs, DVDs"
+N82196,"Renting and leasing of textiles, wearing apparel and footwear"
+N82199,"Renting and leasing of furniture, pottery and glass, kitchen and tableware, electrical appliances and house wares"
+N82200,"Renting and leasing of jewellery, musical instruments, scenery and costumes"
+N82301,"Renting and leasing of books, journals and magazines"
+N82302,Renting and leasing of machinery and equipment used by amateurs or as a hobby
+N82910,Renting of flowers and plants
+N82920,Renting and leasing of electronic equipment for household use
+N82990,Renting and leasing of other personal and household goods n.e.c.
+N77293,"Renting and operational leasing, without operator, of other machinery and equipment that are generally used as capital goods by industries"
+N77297,Renting and operational leasing of land-transport equipment (other than motor vehicles) without drivers
+N77301,Renting and operational leasing of water-transport equipment without operator
+N78200,Renting and operational leasing of air transport equipment without operator
+N78300,Renting and operational leasing of agricultural and forestry machinery and equipment without operator
+N79110,Renting and operational leasing of construction and civil-engineering machinery and equipment without operator
+N79120,Rental and operational leasing of office machinery and equipment without operator
+N79900,"Renting and leasing of other machinery, equipment and tangible goods n.e.c."
+N80100,"Leasing of intellectual property and similar products, except copyrighted works"
+N80200,Activities of employment placement agencies
+N80300,Temporary employment agency activities
+N81100,Provision of human resources for client businesses
+N81210,Travel agency activities
+N81291,Tour operator activities
+N81292,Other reservation service and related activities
+N81293,Private security activities
+N81294,Security systems service activities
+N81295,Investigation and detective activities
+N81296,Combined facilities support activities
+N81297,General cleaning of buildings
+N81299,Cleaning of buildings of all types
+N77309,Swimming pool cleaning and maintenance services
+N77101,Cleaning of industrial machinery
+N77102,"Cleaning of trains, buses, planes"
+N77211,Cleaning of pest control services not in connection with agriculture  
+N77212,Disinfecting and exterminating activities
+N77213,Cleaning of sea tankers
+N77219,"Other building and industrial cleaning activities, n.e.c."
+N77220,Landscape care and maintenance service activities
+N77291,Combined office administrative service activities
+N77292,"Document preparation, editing and/or proofreading"
+N77294,"Typing, word processing or desktop publishing"
+N77295,Secretarial support services
+N77296,Transcription of documents and other secretarial services
+N77299,Provision of mailbox rental and other postal and mailing services
+N77302,"Photocopying, duplicating, blueprinting"
+N77303,"Photocopying, document preparation and other specialized office support activities n.e.c. "
+N77304,Activities of call centres
+N77305,"Organization, promotions and/or management of event"
+N77306,"Meeting, incentive, convention, exhibition (MICE)"
+N77307,Activities of collection agencies and credit bureaus
+N77400,"Packaging activities on a fee or contract basis, whether or not these involve an automated process"
+N78100,Other business support service activities n.e.c.
+O84111,General (overall) public administration activities
+O84121,Ancillary service activities for the government as a whole
+O84122,Administrative educational services
+O84123,Administrative health care services
+O84125,Administrative housing and local government services
+O84126,"Administrative recreational, cultural, arts and sports services"
+O84129,Administrative religious affairs services
+O84131,Administrative welfare services
+O84133,Other community and social affairs services
+O84134,Domestic and international trade affairs
+O84135,Agriculture and rural development affairs
+O84136,Primary industries affairs
+O84138,Public works affairs
+O84139,Transport affairs
+O84231,"Energy, telecommunication and postal affairs"
+O84232,Tourism affairs
+O84233,Human resource affairs
+O84234,Other regulation of and contribution to more efficient operation of businesses n.e.c.
+O84235,Foreign affairs
+O84236,Military and civil defence services
+O84220,Police service
+O84239,Prison service
+O84300,Immigration service
+O84112,National registration service
+O84124,Judiciary and legal service
+O84132,Firefighting and fire prevention
+O84137,Other public order and safety affairs related services
+O84210,Compulsory social security activities e.g. SOCSO
+P85101,Pre-primary education (Public)
+P85102,Pre-primary education (Private)
+P85103,Primary education (Public)
+P85104,Primary education (Private)
+P85211,General school secondary education (Public)
+P85212,General school secondary education (Private)
+P85221,Technical and vocational education below the level of higher education (Public)
+P85222,Technical and vocational education below the level of higher education (Private)
+P85301,College and university education (Public)
+P85302,College and university education (Private)
+P85411,Sports instruction
+P85412,Martial arts instruction
+P85421,Any other sports and recreation education n.e.c
+P85429,Music and dancing school
+P85491,Any other cultural education n.e.c.
+P85492,Tuition centre
+P85493,Driving school
+P85499,Religious instruction
+P85419,Computer training
+P85494,Others education n.e.c
+P85500,Educational support services for provision of non-instructional services
+Q86101,Hospital activities 
+Q86102,Maternity home services (outside hospital)  
+Q86201,General medical services
+Q86202,Specialized medical services
+Q86203,Dental Services
+Q86901,Dialysis Centres
+Q86902,Medical laboratories
+Q86903,Physiotherapy and occupational therapy service 
+Q86904,Acupuncture services
+Q87201,Herbalist and homeopathy services
+Q87209,Ambulance services
+Q87300,Other human health services n.e.c.
+Q87901,Homes for the elderly with nursing care
+Q87902,Nursing homes
+Q87909,Palliative or hospices
+Q88101,Drug rehabilitation centres
+Q88109,Others residential care activities for mental retardation n.e.c.
+Q88901,Residential care activities for the elderly and disabled
+Q88902,Orphanages
+Q86905,Welfare homes services
+Q86906,Other residential care activities n.e.c.
+Q86909,Day-care activities for the elderly or for handicapped adults
+Q87101,Others social work activities without accommodation for the elderly and disabled
+Q87102,Counselling service
+Q87103,Child day-care activities
+Q88909,Other social work activities without accommodation n.e.c.
+R93193,"Theatrical producer, singer group band and orchestra entertainment services"
+R93199,Operation of concert and theatre halls and other arts facilities
+R90001,"Activities of sculptors, painters, cartoonists, engravers, etchers"
+R90002,"Activities of individual writers, for all subjects"
+R90003,Activities of independent journalists
+R90005,Restoring of works of art such as painting
+R90006,"Activities of producers or entrepreneurs of arts live events, with or without facilities"
+R90007,"Creative, arts and entertainment activities n.e.c."
+R90009,Documentation and information activities of libraries of all kinds
+R91012,Stock photo libraries and services
+R91021,Operation of museums of all kinds
+R91022,Operation of historical sites and buildings
+R91032,Operation of botanical and zoological gardens
+R92000,"Operation of nature reserves, including wildlife preservation"
+R93112,Gambling and betting activities
+R93113,"Football, hockey, cricket, baseball, badminton, futsal, paintball"
+R93114,Racetracks for auto
+R93115,Equestrian clubs 
+R93116,"Swimming pools and stadiums, ice-skating arenas"
+R93117,Track and field stadium
+R93118,Golf courses
+R93120,Bowling centre
+R93191,Fitness centres
+R93192,Organization and operation of outdoor or indoor sports events for professionals or amateurs by organizations with own facilities
+R93210,"The operation of sports clubs such as football club, bowling club, swimming club"
+R93291,"Activities of producers or promoters of sports events, with or without facilities"
+R93292,Activities of sports leagues and regulating bodies
+R93293,Activities of related to promotion of sporting events
+R93294,Other sports activities n.e.c.
+R93295,Activities of amusement parks and theme parks
+R93296,Activities of recreation parks and beaches
+R93297,Operation of recreational transport facilities (e.g. marinas)
+R93299,Renting of leisure and pleasure equipment as an integral part of recreational facilities
+R90004,Operation of fairs and shows of a recreational nature
+R91011,Operation of discotheques and dance floors
+R91031,"Activities of producers or entrepreneurs of live events other than arts or sports events, with or without facilities"
+R93111,Cyber Café/Internet Centre
+R93119,Any other amusement and recreation activities n.e.c.
+S95125,Activities of business and employers membership organizations 
+S95126,Activities of professional membership organizations
+S95211,Activities of trade unions
+S95212,Activities of religious organizations
+S95213,Activities of political organizations
+S95221,Activities of other membership organizations n.e.c.
+S95222,Repair of electronic equipment
+S95240,Repair and maintenance of computer terminals
+S95291,Repair and maintenance of hand-held computers (PDA's)
+S95292,Repair and maintenance of cordless telephones
+S95293,Repair and maintenance of cellular phones
+S95294,Repair and maintenance of carrier equipment modems
+S95295,Repair and maintenance of fax machines
+S95299,"Repair and maintenance of communications transmission equipment (e.g. routers, bridges, modems)"
+S96011,Repair and maintenance of two-way radios
+S96012,Repair and maintenance of commercial TV and video cameras
+S96013,"Repair and maintenance of television, radio receivers"
+S96014,Repair and maintenance of (VCR/DVD/VCD)
+S96020,Repair and maintenance of CD players
+S96031,Repair and maintenance of household-type video cameras
+S96032,Repair and servicing of household appliances
+S96033,Repair and servicing of home and garden equipment
+S96034,Repair of footwear and leather goods
+S96035,Repair of furniture and home furnishings
+S96091,Repair of bicycles
+S96092,Repair and alteration of clothing
+S96093,Repair and alteration of jewellery
+S96094,"Repair of watches, clocks and their parts"
+S96095,Repair of sporting goods
+S96096,Repair of musical instruments
+S96099,Repair of other personal and household goods n.e.c.
+S94110,"Laundering and dry-cleaning, pressing"
+S94120,"Carpet and rug shampooing, and drapery and curtain cleaning, whether on clients' premises or not"
+S94200,"Provision of linens, work uniforms and related items by laundries"
+S94910,Diaper supply services
+S94920,Hairdressing and other beauty treatment
+S94990,Preparing the dead for burial or cremation and embalming and morticians' services
+S95111,Providing burial or cremation services
+S95112,Rental of equipped space in funeral parlours
+S95121,Rental or sale of graves
+S95122,Maintenance of graves and mausoleums
+S95123,"Activities of sauna, steam baths, massage salons"
+S95113,Astrological and spiritualists' activities
+S95124,"Social activities such as escort services, dating services, services of marriage bureaux"
+S95127,Pet care services
+S95214,Genealogical organizations
+S95230,"Shoe shiners, porters, valet car parkers"
+S95296,Concession operation of coin-operated personal service machines
+S96097,Other service activities n.e.c.
+T97000,Activities of households as employers of domestic personnel
+T98200,Undifferentiated goods-producing activities of private households for own use
+T98100,Undifferentiated service-producing activities of private households for own use
+U99000,Activities of extraterritorial organizations and bodies
