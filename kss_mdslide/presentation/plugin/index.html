@@ -1,0 +1,280 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+<title>Application of seamless hybrid geocoding solution for business location using #KAWASANKU API</title>
+		<link rel="stylesheet" href="dist/reset.css">
+		<link rel="stylesheet" href="dist/reveal.css">
+<link rel="stylesheet" href="dist/theme/white.css" id="theme">
+		<!-- Theme used for syntax highlighted code -->
+<link rel="stylesheet" href="plugin/highlight/zenburn.min.css" id="highlight-theme"></head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+<section data-markdown  data-background-video="media/video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2"><textarea data-template>
+[comment]: # (This presentation was made with markdown-slides)
+[comment]: # (This is a CommonMark compliant comment. It will not be included in the presentation.)
+[comment]: # (Compile this presentation with the command below)
+[comment]: # (mdslides presentation.md --include media)
+
+[comment]: # (Set the theme:)
+[comment]: # (The list of themes is at https://revealjs.com/themes/)
+[comment]: # (The list of code themes is at https://highlightjs.org/)
+
+[comment]: # "You can also use quotes instead of parenthesis"
+[comment]: # 'Single quotes work too'
+
+[comment]: # (Pass optional settings to reveal.js:)
+[comment]: # (markdown: { smartypants: true })
+[comment]: # (Other settings are documented at https://revealjs.com/config/)
+
+
+[comment]: # (Other background options: https://revealjs.com/backgrounds/)
+
+### Application of seamless hybrid geocoding solution for business location using #KAWASANKU API
+
+<span style="font-family: Arial; font-size: 0.6em; display: block; margin-bottom: 10px;">
+  **Ahmad Najmi ARIFFIN**, Mohamad Hamizan ABDULLAH<br>
+  Core Team Big Data Analytics (CTADR), Department of Statistics, Malaysia
+</span>
+
+
+
+
+</textarea></section>
+<section data-markdown  ><textarea data-template>
+
+## Problem Statement
+
+![probstat](media/kwsnapi_probstatement.png)
+<span style="font-family:Arial; font-size:0.6em;display: block; margin-bottom: 12px;">The purpose of our study was **to verify the distributions of geocode location** to consider when analysing geocoded address data, as well as to develop methods for **enriching demographic databases and representing multiple levels** -  district, parliament, and state legislative assembly (Malay: Dewan Undangan Negeri, DUN) - using public repository **KAWASANKU API from Github platform**.</span>
+
+
+</textarea></section>
+<section data-markdown  data-auto-animate><textarea data-template>
+
+## Introduction & Outline
+
+1. Benefits of Geocoding and **Structuring Address**
+
+</textarea></section>
+<section data-markdown  data-auto-animate><textarea data-template>
+
+## Introduction & Outline
+
+1. Benefits of Geocoding and **Structuring Address**
+2. **Advantages of geocoding** for businesses
+
+</textarea></section>
+<section data-markdown  data-auto-animate><textarea data-template>
+
+## Introduction & Outline
+
+1. Benefits of Geocoding and **Structuring Address**
+2. **Advantages of geocoding** for businesses
+3. Availability of **open data** for business research
+
+</textarea></section>
+<section data-markdown  ><textarea data-template>
+
+API Mechanism using ArcGIS API
+![probstat](media/kwsnapi_fg1.png)
+
+</textarea></section>
+<section data-markdown  ><textarea data-template>
+
+A summary of the **pros and cons** <br>of utilising online geocoding services.
+![probstat](media/kwsnapi_tb1.png)
+
+</textarea></section>
+<section data-markdown  ><textarea data-template>
+
+## Methodology
+
+----------
+
+</textarea></section>
+<section data-markdown  data-background-color="aquamarine"><textarea data-template>
+
+Installation of the "geopy" library in Python .
+```python [1-2|4-5|8]
+    pip install geopy geopandas
+    from geopy.geocoders import ArcGIS
+    
+    # Create a geolocator object using ArcGIS
+    geolocator = ArcGIS()
+    
+    # Example: Geocode an address
+    location = geolocator.geocode("1600 Amphitheatre Parkway, Mountain View, CA")
+```
+
+</textarea></section>
+<section data-markdown  ><textarea data-template>
+
+Workflow for **Geocoding** Address and **Reverse Geocode**.
+![probstat](media/kwsnapi_fg3.png)
+
+</textarea></section>
+<section data-markdown  ><textarea data-template>
+
+Output for Geocoding Address and Reverse Geocode.
+
+```python [1|3]
+    geocoded_gdf = geocode(string=df['full_address], provider='argis')
+
+    print(geocoded_gdf)
+```
+</textarea></section>
+<section data-markdown  data-background-color="aquamarine"><textarea data-template>
+
+Installation of the "fuzzywuzzy" library in Python .
+```python [1|3-4|6-7]
+    pip install fuzzywuzzy python-Levenshtein -qq
+    
+    from fuzzywuzzy import fuzz
+    from fuzzywuzzy import process
+    
+    fuzz.ratio('DOSM Malaysia', 'Malaysia DOSM')
+    50
+```
+
+</textarea></section>
+<section data-markdown  ><textarea data-template>
+
+Levenshtein  similarity ratio.
+![probstat](media/kwsnapi_lvformula.png)
+
+</textarea></section>
+<section data-markdown  ><textarea data-template>
+
+## Result/Output
+
+----------
+
+</textarea></section>
+<section data-markdown  ><textarea data-template>
+
+Geocode Validation.
+![probstat](media/kwsnapi_fg5.png)
+
+</textarea></section>
+<section data-markdown  ><textarea data-template>
+
+Similarity analysis.
+![probstat](media/kwsnapi_fg6.png)
+<span style="font-size:0.6em;display: block; margin-bottom: 12px;">Fuzzy matching analysis, Q-Ratio Score as Similarity Indicator.</span>
+
+</textarea></section>
+<section data-markdown  ><textarea data-template>
+
+Optimisation - Data Enrichment.
+![probstat](media/kwsnapi_fg7.png)
+<span style="font-size:0.6em;display: block; margin-bottom: 12px;">KAWASANKU API Matching .</span>
+
+</textarea></section>
+<section>
+<section data-markdown  ><textarea data-template>
+
+Press down on your keyboard or swipe down.
+
+</textarea></section>
+<section data-markdown  ><textarea data-template>
+
+## DEMOSTRATION STEP BY STEP
+
+----------
+[Google Colab](https://colab.research.google.com/github/booluckgmie/podac/blob/main/Geocode_with_arcgis_and_Similarity_Score_Address.ipynb)
+
+</textarea></section>
+</section>
+<section data-markdown  ><textarea data-template>
+
+### 4. Discussion and Conclusion
+
+- **Seamless Workflow Framework:**
+Aims to suggest a workflow that is seamless and less-dependent.
+
+- **Increased Open Data Benefits:**
+Advocacy from both private industry and public agencies for Open Data sharing can enhance the benefits of Open Data.
+Fosters a thriving open data ecosystem.
+
+</textarea></section>
+<section data-markdown  ><textarea data-template>
+
+### 4. Discussion and Conclusion
+
+- **Government Geospatial Planning:**   
+Federal and state levels of government can utilize a geospatial approach for planning. Enhances strategies to support new uncertainty business entities.
+
+- **Entrepreneurial Business Location Planning:**
+Utilizing a map to plan a more advantageous location for an entrepreneur's business based on the distribution network.
+
+</textarea></section>
+<section data-markdown  ><textarea data-template>
+
+### 4. Discussion and Conclusion
+
+- **Geographical Distribution Measurement:**
+Measuring the geographical distribution of economic activity is crucial for scientific research and policy formation.
+
+
+</textarea></section>
+<section data-markdown  ><textarea data-template>
+
+### 5. Limitation
+
+- Unstructured address data is a **common obstacle**.
+- Geocoding API's address geocoding has **significantly higher latency** and produces **less accurate results for incomplete** or ambiguous queries;
+- Not recommended for real-time user input-  responsive applications.
+- In the **future, we plan to employ better model** in order to comprehend the qualitative similarities  between two datasets more thoroughly.
+
+</textarea></section>
+<section data-markdown  ><textarea data-template>
+
+References.
+![probstat](media/kwsnapi_reference.png)
+
+</textarea></section>
+<section>
+<section data-markdown  ><textarea data-template>
+<center><a href="https://profile.codersrank.io/user/booluckgmie">
+  <img src="media/kwsnapi_najmi.png" alt="smaller logo" height="450">
+</a></center>
+
+Thanks [@najmiariffin](https://github.com/booluckgmie/podac/blob/main/Geocode_with_arcgis_and_Similarity_Score_Address.ipynb)
+
+
+</textarea></section>
+</section>
+<section data-markdown ><textarea data-template>
+
+
+</textarea></section>
+			</div>
+		</div>
+
+		<script src="dist/reveal.js"></script>
+		<script src="plugin/notes/notes.js"></script>
+		<script src="plugin/markdown/markdown.js"></script>
+		<script src="plugin/highlight/highlight.js"></script>
+		<script src="plugin/math/math.js"></script>
+		<script>
+			// More info about initialization & config:
+			// - https://revealjs.com/initialization/
+			// - https://revealjs.com/config/
+Reveal.initialize({
+controls : false,
+markdown : {smartypants: true},
+controls : true,
+keyboard : true,
+hash : false,
+respondToHashChanges : false,
+				hash: true,
+				// Learn about plugins: https://revealjs.com/plugins/
+				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes, RevealMath ]
+			});
+		</script>
+	</body>
+</html>
